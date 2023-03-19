@@ -1533,9 +1533,6 @@
 - [Apache/superset](https://github.com/apache/superset) - Apache Superset Is A Data Visualization And Data Exploration Platform
 - [Pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible And Powerful Data Analysis / Manipulation Library For Python, Providing Labeled Data Structures Similar To R Data.frame Objects, Statistical Functions, And Much More
 - [Scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Scikit-learn: Machine Learning In Python
-
-## Data-analysis 
-
 - [Abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore Your Facebook Messenger Chat History, In A Manner Inspired By Spotify Wrapped
 - [Comet-ml/kangas](https://github.com/comet-ml/kangas) - 🦘 Explore Multimedia Datasets At Scale
 - [Matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project That Ingests Facebook Messenger Conversations And Generates Analytics.
@@ -1608,9 +1605,6 @@
 - [Influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable Datastore For Metrics, Events, And Real-time Analytics
 - [Etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed Reliable Key-value Store For The Most Critical Data Of A Distributed System
 - [Cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - The Open Source, Cloud-native Distributed SQL Database.
-
-## Database 
-
 - [The-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A List Of Resources In Different Fields Of Computer Science
 - [Typesense/typesense](https://github.com/typesense/typesense) - Open Source Alternative To Algolia And An Easier-to-Use Alternative To ElasticSearch ⚡ 🔍 ✨ Fast, Typo Tolerant, In-memory Fuzzy Search Engine For Building Delightful Search Experiences
 - [Nomadiz/edma](https://github.com/nomadiz/edma) - EDMA Is An Interactive Terminal App For Managing Multiple Embedded Databases System At Once With Powerful Byte Deserializer Support.
@@ -1648,9 +1642,6 @@
 - [Ipython/ipython](https://github.com/ipython/ipython) - Official Repository For IPython Itself. Other Repos In The IPython Organization Contain Things Like The Website, Documentation Builds, Etc.
 - [Pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible And Powerful Data Analysis / Manipulation Library For Python, Providing Labeled Data Structures Similar To R Data.frame Objects, Statistical Functions, And Much More
 - [Scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Scikit-learn: Machine Learning In Python
-
-## Data-science 
-
 - [Approximatelabs/sketch](https://github.com/approximatelabs/sketch) - AI Code-writing Assistant That Understands Data Content
 - [Open-academy/machine-learning](https://github.com/open-academy/machine-learning) - 
 - [Hades217/awesome-ai](https://github.com/hades217/awesome-ai) - A Curated List Of Artificial Intelligence Resources (Courses, Tools, App, Open Source Project)
@@ -1680,9 +1671,6 @@
 
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, Put And Delete Data From JSON, TOML, YAML, XML And CSV Files With A Single Tool. Supports Conversion Between Formats And Can Be Used As A Go Package.
 - [Jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A Complete Computer Science Study Plan To Become A Software Engineer.
-
-## Data-structures 
-
 - [Ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A Ranked List Of Awesome Python Open-source Libraries And Tools. Updated Weekly.
 - [Brettkromkamp/typed-tree](https://github.com/brettkromkamp/typed-tree) - TypedTree Provides A Tree Data Structure That Allows Adding Type Information To Both Nodes And Edges; Useful For Visualisation Purposes
 
@@ -1700,9 +1688,6 @@
 - [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
 - [Apache/echarts](https://github.com/apache/echarts) - Apache ECharts Is A Powerful, Interactive Charting And Data Visualization Library For Browser
 - [D3/d3](https://github.com/d3/d3) - Bring Data To Life With SVG, Canvas And HTML. :Bar_chart::chart_with_upwards_trend::tada:
-
-## Data-visualization 
-
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated List Of Open Source Tooling For Data-centric AI On Unstructured Data.
 - [Abmenzel/messenger-wrapped](https://github.com/abmenzel/messenger-wrapped) - Explore Your Facebook Messenger Chat History, In A Manner Inspired By Spotify Wrapped
 - [Amitkaps/visdown](https://github.com/amitkaps/visdown) - Visualisation Markdown
@@ -1758,9 +1743,6 @@
 - [Ray-project/ray](https://github.com/ray-project/ray) - Ray Is A Unified Framework For Scaling AI And Python Applications. Ray Consists Of A Core Distributed Runtime And A Toolkit Of Libraries (Ray AIR) For Accelerating ML Workloads.
 - [Keras-team/keras](https://github.com/keras-team/keras) - Deep Learning For Humans
 - [Tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework For Everyone
-
-## Deep-learning 
-
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated List Of Open Source Tooling For Data-centric AI On Unstructured Data.
 - [Mdeff/fma](https://github.com/mdeff/fma) - FMA: A Dataset For Music Analysis
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - Convenient MIDI / Symbolic Music Tokenizers For Deep Learning Networks 🎶
@@ -1814,9 +1796,6 @@
 - [Dagger/dagger](https://github.com/dagger/dagger) - A Programmable CI/CD Engine That Runs Your Pipelines In Containers
 - [Ray-project/ray](https://github.com/ray-project/ray) - Ray Is A Unified Framework For Scaling AI And Python Applications. Ray Consists Of A Core Distributed Runtime And A Toolkit Of Libraries (Ray AIR) For Accelerating ML Workloads.
 - [Fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The Easiest Way To Automate Building And Releasing Your IOS And Android Apps
-
-## Deployment 
-
 - [Jina-ai/now](https://github.com/jina-ai/now) - 🧞 No-code Tool For Creating A Neural Search Solution In Minutes
 - [Getmeli/meli](https://github.com/getmeli/meli) - Platform For Deploying Static Sites And Frontend Applications Easily. Automatic SSL, Deploy Previews, Reverse Proxy, And More.
 - [Jeffreytse/jekyll-deploy-action](https://github.com/jeffreytse/jekyll-deploy-action) - 🪂 A Github Action To Deploy The Jekyll Site Conveniently For GitHub Pages.
@@ -1829,9 +1808,6 @@
 - [Simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG Icons For Popular Brands
 - [Chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source Customer Engagement Suite, An Alternative To Intercom, Zendesk, Salesforce Service Cloud Etc. 🔥💬
 - [Donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn How To Design Large-scale Systems. Prep For The System Design Interview.  Includes Anki Flashcards.
-
-## Design 
-
 - [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An Awesome List Of Illustrations To Improve Your Projects, Posts & Portfolios. Fork & Add Your Own.
 - [Simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG Icons For Popular Brands
 - [Ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :Mountain_bicyclist: Landing Pages Of Ant Design System
@@ -1878,9 +1854,6 @@
 - [Buger/goreplay](https://github.com/buger/goreplay) - GoReplay Is An Open-source Tool For Capturing And Replaying Live HTTP Traffic Into A Test Environment In Order To Continuously Test Your System With Real Data. It Can Be Used To Increase Confidence In
 - [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right! Https://www.netdata.cloud
 - [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
-
-## Devops 
-
 - [Visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) - A Curated List Of References For MLOps
 - [Wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A Curated List Of Awesome DevOps Platforms, Tools, Practices And Resources
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development To Production All Configurations With Basic Notes To Debug Efficiently.
@@ -1895,9 +1868,6 @@
 
 - [SwiftcordApp/Swiftcord](https://github.com/SwiftcordApp/Swiftcord) - A Fully Native Discord Client For MacOS Built 100% In Swift!
 - [Tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar For Python And CLI
-
-## Discord 
-
 - [CorwinDev/Discord-Bot](https://github.com/CorwinDev/Discord-Bot) - Discord Bot With Over 400 Commands And Made For Large Servers
 - [Discord-Client-Encyclopedia-Management/Discord3rdparties](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties) - A Non-exhaustive Collection Of Third-party Clients And Mods For Discord.
 - [TheTechRobo/discord-urls-extractor](https://github.com/TheTechRobo/discord-urls-extractor) - Rust Program For Extracting Most URLs From Discord Scrapes. Works With Discord History Tracker, Discard2, And DiscordChatExporter.
@@ -1921,9 +1891,6 @@
 - [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A Slick ORM Cache With Automatic Granular Event-driven Invalidation.
 - [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
 - [Django/django](https://github.com/django/django) - The Web Framework For Perfectionists With Deadlines.
-
-## Django 
-
 - [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI) - :Cloud: :Rocket: :Bar_chart: :Chart_with_upwards_trend: Evaluating State Of The Art In AI
 - [Laxmanbalaraman/Broken-Links-Finder](https://github.com/laxmanbalaraman/Broken-Links-Finder) - A Web Application To Find All The Dead Links In A Website
 - [Dubs3c/Bookie](https://github.com/dubs3c/Bookie) - Save All Your Bookmarks!
@@ -2007,10 +1974,6 @@
 - [Rook/rook](https://github.com/rook/rook) - Storage Orchestration For Kubernetes
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy And Repeatable Kubernetes Development
 - [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right! 
-
-
-## Docker 
-
 - [Neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning And Deep Learning As We Learn It. Study Notes And A Curated List Of Awesome Resources Of Such Topics.
 - [Mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's Gaslight Everything; Containers, ML, Scripts, And Everyone! #AUSPOL Can Wait.
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider Is A Software For Organizing And Editing Documents Consisting Of A Main File And Optionally Different Assets Like Images.
@@ -2032,11 +1995,9 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A Self-hostable Personal Dashboard Built For You. Includes Status-checking, Widgets, Themes, Icon Packs, A UI Editor And Tons More!
 - [Theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server With CI/CD And Kanban
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome Cheatsheets For Popular Programming Languages, Frameworks And Development Tools. They Include Everything You Should Know In One Single File.
->>>>>>> Master
 
 ## Documentation 
 
-<<<<<<< HEAD
 - [Evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework) - "The Grand Unified Theory Of Documentation" (David Laing) - A Popular And Transformative Documentation Authoring Framework
 - [Sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class Library Documentation For Every Language (Based On Tree-sitter), With Symbol Search & More. Lightweight Single Binary, Run Locally Or Self-host. Surfaces Usage Examples Via Sourcegraph.
 - [Bagder/http3-explained](https://github.com/bagder/http3-explained) - A Document Describing The HTTP/3 And QUIC Protocols
@@ -2051,7 +2012,6 @@
 - [Satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What The F*ck Python? 😱
 - [Mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python Source With Pelican, Bootstrap And Markdown.
 - [Jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master The Command Line, In One Page
-=======
 - [Docuowl/docuowl](https://github.com/docuowl/docuowl) - 🦉 A Documentation Generator
 - [Docpress/docpress](https://github.com/docpress/docpress) - Documentation Website Generator
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A Platform To Create Documentation/wiki Content Built With PHP & Laravel
@@ -2074,32 +2034,26 @@
 - [Mattcone/markdown-guide](https://github.com/mattcone/markdown-guide) - The Comprehensive Markdown Reference Guide.
 - [Pietropizzi/app-talk](https://github.com/pietropizzi/app-talk) - Let IOS Apps Talk - A User Contributable Directory Of IOS Apps With X-callback-urls.
 - [Kapeli/Dash-iOS](https://github.com/Kapeli/Dash-iOS) - Dash Gives Your IPad And IPhone Instant Offline Access To 200+ API Documentation Sets
->>>>>>> Master
 
 ## Dotnet 
 
-<<<<<<< HEAD
 - [Extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend Anything With WebAssembly.
 - [Dotnet/maui](https://github.com/dotnet/maui) - .NET MAUI Is The .NET Multi-platform App UI, A Framework For Building Native Device Applications Spanning Mobile, Tablet, And Desktop.
 - [Pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure As Code. Your Cloud, Your Language, Your Way 🚀
 - [Dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's Update PR Creation Logic. Feedback: Https://github.com/orgs/community/discussions/categories/code-security
-=======
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown Parsing Library For .NET 6+, With Support For Obsidian Vaults Navigation.
 - [Benjysugi/InternetArchiveDownloader](https://github.com/benjysugi/InternetArchiveDownloader) - A Program That Allows You To Download Folders Posted On The Internet Archive In Full Without Using The Torrent
 - [Jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Kekyo/MarkTheRipper](https://github.com/kekyo/MarkTheRipper) - Fantastic Faster Generates Static Site Comes From Simply Markdowns.
 - [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - It's Your Music. Play It Your Way.
->>>>>>> Master
 
 ## Electron 
 
-<<<<<<< HEAD
 - [Upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - Free And Open Source AI Image Upscaler For Linux, MacOS And Windows Built With Linux-First Philosophy.
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An Extensible API Tool.
 - [Qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / MacOS / Linux :Electron:
 - [Microsoft/playwright](https://github.com/microsoft/playwright) - Playwright Is A Framework For Web Testing And Automation. It Allows Testing Chromium, Firefox And WebKit With A Single API.
 - [Microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-=======
 - [Stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate Vocals, Drums, Bass, And Other Instrumental Stems From Any Song
 - [Amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :Closed_book: A Minimal Markdown Editor Desktop App
 - [EuanRiggans/BulkURLOpener](https://github.com/EuanRiggans/BulkURLOpener) - Bulk URL Opener Is An Application That Provides The User With Multiple Utilities To Help With Managing And Using Large Amounts Of Urls
@@ -2124,11 +2078,9 @@
 - [Laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - An Open Source Note Taking And To-do Application With Synchronisation Capabilities For Windows, MacOS, Linux, Android And IOS.
 - [Danobot/notorious](https://github.com/danobot/notorious) - Offline-first Note Taking And Knowledge Management Application For Desktop And The Web. Supports Nested Notebooks, Tags, Real-time Sync, Images And File Attachments. Optimised For Efficiency With Keyb
 - [Zadam/trilium](https://github.com/zadam/trilium) - Build Your Personal Knowledge Base With Trilium Notes
->>>>>>> Master
 
 ## Elixir 
 
-<<<<<<< HEAD
 - [Phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace Of Mind From Prototype To Production
 - [Extism/extism](https://github.com/extism/extism) - The Universal Plug-in System. Extend Anything With WebAssembly.
 - [Plausible/analytics](https://github.com/plausible/analytics) - Simple, Open-source, Lightweight (&Lt; 1 KB) And Privacy-friendly Web Analytics Alternative To Google Analytics.
@@ -2157,21 +2109,17 @@
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich Is A Python Library For Rich Text And Beautiful Formatting In The Terminal.
 - [MariaLetta/free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This Pack Of 100+ Gopher Pictures And Elements Will Help You To Build Own Design Of Almost Anything Related To Go Programming Language: Presentations, Posts In Blogs Or Social Media, Courses, Videos
-
-## Emoji 
-
 - [Amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - :Closed_book: A Minimal Markdown Editor Desktop App
 - [Ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A Markdown Version Emoji Cheat Sheet
 - [Marktext/marktext](https://github.com/marktext/marktext) - 📝A Simple And Elegant Markdown Editor, Available For Linux, MacOS And Windows.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich Is A Python Library For Rich Text And Beautiful Formatting In The Terminal.
 - [Coding/Coding-iOS](https://github.com/coding/Coding-iOS) - CODING IOS 客户端源代码
->>>>>>> Master
+
 
 ## Emulator 
 
 - [Ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player Emulator Written In Rust
 - [Ish-app/ish](https://github.com/ish-app/ish) - Linux Shell For IOS
-=======
 - [Lubien/bookmarker](https://github.com/lubien/bookmarker) - Export Google Chrome Bookmarks Into Markdown Files
 
 ## English 
@@ -2180,7 +2128,6 @@
 
 ## Es6 
 
-<<<<<<< HEAD
 - [Grafana/k6](https://github.com/grafana/k6) - A Modern Load Testing Tool, Using Go And JavaScript - Https://k6.io
 - [Doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :White_check_mark:  The Node.js Best Practices List (March 2023)
@@ -2196,48 +2143,41 @@
 ## Ethereum 
 
 - [Ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go Implementation Of The Ethereum Protocol
-=======
 - [Doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
->>>>>>> Master
+
 
 ## Express 
 
-<<<<<<< HEAD
 - [Goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :White_check_mark:  The Node.js Best Practices List (March 2023)
-=======
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider Is A Software For Organizing And Editing Documents Consisting Of A Main File And Optionally Different Assets Like Images.
 - [Wobsoriano/spotify-stats-server](https://github.com/wobsoriano/spotify-stats-server) - Spotify Stats Server
 - [Shravan20/github-readme-quotes](https://github.com/shravan20/github-readme-quotes) - Dynamic Quote Generator For Your GitHub Readmes | Give A Poetic Touch To Readmes
 - [Reubn/daylight](https://github.com/reubn/daylight) - Your Life, On A Map.
->>>>>>> Master
 
 ## Finance 
 
-<<<<<<< HEAD
+
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research For Everyone, Anywhere.
 - [Vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [Plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards For Python. No JavaScript Required.
-=======
 - [Simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, Fast, Intuitive Plain Text Accounting Tool With CLI, TUI And Web Interfaces.
 - [Plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards For Python. No JavaScript Required.
->>>>>>> Master
+
 
 ## Firebase 
 
-<<<<<<< HEAD
+
 - [Supabase/supabase](https://github.com/supabase/supabase) - The Open Source Firebase Alternative. Follow To Stay Updated About Our Public Beta.
-=======
 - [Wyattharrell/linkbook](https://github.com/wyattharrell/linkbook) - Linkbook Is A Powerful Link-saving Web App That Can Store Your Favorite Links, Keep You Organized, And Much More.
 - [Trashhalo/obsidian-webhooks](https://github.com/trashhalo/obsidian-webhooks) - Connect Obsidian To The Internet Of Things Via Webhooks
 - [Appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server For Web, Mobile & Flutter Developers 🚀 AKA The 100% Open-source Firebase Alternative.
 - [Sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable Portfolio Jekyll Theme Where You Can Blog Using Markdown Or CMS :Rocket: In Minutes Built For Developers. (With CMS)
 - [Happy-mammal/timeliner](https://github.com/happy-mammal/timeliner) - A Simple Interest Tracking App Which Tries/aims To Provide Real-time History Feed Of Interests  You Like E.g. (IPhone13, Tesla, Covid-19). It Similar To A Customized RSS Feed But A Mixture Of News And
 - [Unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :House::information_source: Curated List Of Awesome Open Source Crafted Web & Mobile Applications - Learn, Fork, Contribute & Most Importantly Enjoy!
->>>>>>> Master
+
 
 ## Firefox 
 
-<<<<<<< HEAD
 - [Microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python Version Of The Playwright Testing And Automation Library.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A Simple Zero-config Tool To Make Locally Trusted Development Certificates With Any Names You'd Like.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open Source Self-hosted Web Archiving. Takes URLs/browser History/bookmarks/Pocket/Pinboard/etc., Saves HTML, JS, PDFs, Media, And More...
@@ -2287,9 +2227,6 @@
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An Awesome List That Curates The Best Flutter Libraries, Tools, Tutorials, Articles And More.
 - [Flutter/flutter](https://github.com/flutter/flutter) - Flutter Makes It Easy And Fast To Build Beautiful Apps For Mobile And Beyond
 - [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
-
-## Flutter 
-
 - [Ndahlquist/stable-horde-flutter](https://github.com/ndahlquist/stable-horde-flutter) - An Android+iOS App For The Stable Horde
 - [KRTirtho/wives](https://github.com/KRTirtho/wives) - A Beautiful, Modern & Feature-rich Terminal Emulator
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open Source Spotify Client That Doesn't Require Premium Nor Uses Electron! Available For Both Desktop & Mobile!
@@ -2306,9 +2243,6 @@
 
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The Iconic SVG, Font, And CSS Toolkit
 - [Lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An Open-source Chinese Font Derived From Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-## Font 
-
 - [Neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :City_sunrise: A Collection Of Links For Free Stock Photography, Video And Illustration Websites
 - [Source-foundry/Hack](https://github.com/source-foundry/Hack) - A Typeface Designed For Source Code
 
@@ -2336,9 +2270,6 @@
 - [Vapor/vapor](https://github.com/vapor/vapor) - 💧 A Server-side Swift HTTP Web Framework.
 - [Scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, A Fast High-level Web Crawling & Scraping Framework For Python.
 - [Django/django](https://github.com/django/django) - The Web Framework For Perfectionists With Deadlines.
-
-## Framework 
-
 - [Jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build Multimodal AI Services Via Cloud Native Technologies · Neural Search · Generative AI · Cloud Native
 - [TIGMINT/TIGMINT](https://github.com/TIGMINT/TIGMINT) - TIGMINT: OSINT (Open Source Intelligence) GUI Software Framework
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual Is A TUI (Text User Interface) Framework For Python Inspired By Modern Web Development.
@@ -2349,18 +2280,12 @@
 ## Frameworks 
 
 - [Toni77777/awesome-swiftui-libraries](https://github.com/Toni77777/awesome-swiftui-libraries) - :Rocket: Awesome SwiftUI Libraries
-
-## Frameworks 
-
 - [Pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - Link Of All Daily Dev Tools And A Little Bit Data About Them
 
 ## Frontend 
 
 - [Zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create Web-based UI With Python. The Nice Way.
 - [Thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The Perfect Front-End Checklist For Modern Websites And Meticulous Developers
-
-## Frontend 
-
 - [Tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index With Improved Dark Mode, Search And Video Player
 - [Getmeli/meli](https://github.com/getmeli/meli) - Platform For Deploying Static Sites And Frontend Applications Easily. Automatic SSL, Deploy Previews, Reverse Proxy, And More.
 - [Vijayyprajapati/Share-Your-Bookmarks](https://github.com/vijayyprajapati/Share-Your-Bookmarks) - A Platform Where Anyone Can Make Their Profile, Share Their Twitter And LinkedIn Bookmarks, See Other Shared Bookmarks, And Contribute To The Community. This Repository Is Participating In Hacktoberfe
@@ -2377,18 +2302,12 @@
 
 - [Pointfreeco/isowords](https://github.com/pointfreeco/isowords) - Open Source Game Built In SwiftUI And The Composable Architecture.
 - [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
-
-## Game 
-
 - [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
 
 ## Game-development 
 
 - [Googleforgames/agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting And Scaling For Multiplayer Games On Kubernetes
 - [Godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D And 3D Game Engine
-
-## Game-development 
-
 - [Mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) - A Curated List Of Awesome Discord Communities For Programmers
 
 ## Game-engine 
@@ -2418,9 +2337,6 @@
 - [Git-lfs/git-lfs](https://github.com/git-lfs/git-lfs) - Git Extension For Versioning Large Files
 - [Iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git For Data & Models | ML Experiments Management
 - [Libgit2/pygit2](https://github.com/libgit2/pygit2) - Python Bindings For Libgit2
-
-## Git 
-
 - [Extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 Fast Terminal-ui For Git Written In Rust 🦀
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A Blazing Fast Cross Platform/shell Prompt Renderer
 - [ScribeMD/template-repo](https://github.com/ScribeMD/template-repo) - Template Repository For ScribeMD
@@ -2459,9 +2375,6 @@
 - [Badges/shields](https://github.com/badges/shields) - Concise, Consistent, And Legible Badges In SVG And Raster Format
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed Interactions With The GitHub API V3
 - [Google/go-github](https://github.com/google/go-github) - Go Library For Accessing The GitHub V3 API
-
-## Github 
-
 - [Varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [Duolingo/metasearch](https://github.com/duolingo/metasearch) - Search Aggregator For Slack, Google Docs, GitHub, And More :Mag:
 - [Yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :Octocat: Stats As Like Terminal Interface With Typing Effects Dynamically For Your Profile Readme
@@ -2558,9 +2471,6 @@
 - [Github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically Generate Change Log From Your Tags, Issues, Labels And Pull Requests On GitHub.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed Interactions With The GitHub API V3
 - [Google/go-github](https://github.com/google/go-github) - Go Library For Accessing The GitHub V3 API
-
-## Github-api 
-
 - [AykutSarac/github-rater](https://github.com/AykutSarac/github-rater) - 📊 Check Your GitHub Rating, View Results And Enhance Your Profile Quality.
 - [Jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub Statistics Images For Your Profile, With Stats From Private Repos Too
 - [Avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level Up Your GitHub Profile Readme With Customizable Cards Including LOC Statistics!
@@ -2795,9 +2705,6 @@
 - [Kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling And Management
 - [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
 - [Golang/go](https://github.com/golang/go) - The Go Programming Language
-
-## Go 
-
 - [Ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI Tool That Helps Verify Current Status Of URIs In Text Files
 - [Hueristiq/hqurlfind3r](https://github.com/hueristiq/hqurlfind3r) - A Passive Reconnaissance Tool For Known URLs Discovery.
 - [Po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator Lets You Generate GitHub Images Has Links To Repositories.
@@ -3057,9 +2964,6 @@
 - [Sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform Client For PostgreSQL Databases
 - [Avelino/awesome-go](https://github.com/avelino/awesome-go) - A Curated List Of Awesome Go Frameworks, Libraries And Software
 - [Golang/go](https://github.com/golang/go) - The Go Programming Language
-
-## Golang 
-
 - [TypicalAM/Static-Site-Generator](https://github.com/TypicalAM/Static-Site-Generator) - A Place To View Your Notes - Powered By Go
 - [Ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI Tool That Helps Verify Current Status Of URIs In Text Files
 - [Hueristiq/hqurlfind3r](https://github.com/hueristiq/hqurlfind3r) - A Passive Reconnaissance Tool For Known URLs Discovery.
@@ -3095,9 +2999,6 @@
 
 - [Cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The Open Source High Performance Data Integration Platform Built For Developers.
 - [Infracost/infracost](https://github.com/infracost/infracost) - Cloud Cost Estimates For Terraform In Pull Requests💰📉 Love Your Cloud Bill!
-
-## Google 
-
 - [Duolingo/metasearch](https://github.com/duolingo/metasearch) - Search Aggregator For Slack, Google Docs, GitHub, And More :Mag:
 - [Dessant/web-archives](https://github.com/dessant/web-archives) - Browser Extension For Viewing Archived And Cached Versions Of Web Pages, Available For Chrome, Edge And Safari
 - [Alx-xlx/gdrive-clone](https://github.com/alx-xlx/gdrive-clone) - Clone A Shared Google Drive Link To Your Own Google Drive
@@ -3125,9 +3026,6 @@
 ## Google-cloud 
 
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample Cloud-first Application With 10 Microservices Showcasing Kubernetes, Istio, And GRPC.
-
-## Google-cloud 
-
 - [GoogleCloudPlatform/awesome-google-cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud) - A Curated List Of Awesome Stuff For Google Cloud Platform.
 
 ## Graphql 
@@ -3149,9 +3047,6 @@
 - [Graphql-python/graphene-django](https://github.com/graphql-python/graphene-django) - Integrate GraphQL Into Your Django Project.
 - [Graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL Framework For Python
 - [Dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database With Graph Backend
-
-## Graphql 
-
 - [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The ⚡️ Analytics-intensive, Self-hostable Link-shortener With A Beautiful UI | AKA Free Bit.ly Alternative 🚀
 - [Refinedev/refine](https://github.com/refinedev/refine) - Build Your React-based CRUD Applications, Without Constraints.
 - [Gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The Fastest Frontend For The Headless Web. Build Modern Websites With React.
@@ -3183,10 +3078,6 @@
 - [Plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards For Python. No JavaScript Required.
 - [Miserlou/Zappa](https://github.com/Miserlou/Zappa) - Serverless Python
 - [Codelucas/flask_reddit](https://github.com/codelucas/flask_reddit) - Reddit Clone In Flask + Python + Nginx + Https. View Site:
-
-## Hacking 
->>>>>>> Master
-
 - [Blackhatethicalhacking/XSSRocket](https://github.com/blackhatethicalhacking/XSSRocket) - XSS Rocket Is Written By Black Hat Ethical Hacking With The Help Of #ChatGPT As Experimentation, With A Lot Of Hours Spent Modifying The Code Generated By ChatGPT, And Is Designed For Offensive Securi
 - [Six2dez/reconftw](https://github.com/six2dez/reconftw) - ReconFTW Is A Tool Designed To Perform Automated Recon On A Target Domain By Running The Best Set Of Tools To Perform Scanning And Finding Out Vulnerabilities
 - [Edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering Tool - DNS / Subdomains / Ports / Directories Enumeration
@@ -3401,9 +3292,6 @@
 - [Scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, A Fast High-level Web Crawling & Scraping Framework For Python.
 - [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
 - [Chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts Using The &Lt;canvas&gt; Tag
-
-## Hacktoberfest 
-
 - [Lagmoellertim/unsilence](https://github.com/lagmoellertim/unsilence) - Console Interface And Library To Remove Silent Parts Of A Media File 🔈
 - [Aashutoshrathi/awesome-bashrc](https://github.com/aashutoshrathi/awesome-bashrc) - 🚀 Collection Of Bash Snippets/aliases That Will Save Your Time On The Terminal
 - [Harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards For Your Readme
@@ -3557,9 +3445,6 @@
 - [Jgm/pandoc](https://github.com/jgm/pandoc) - Universal Markup Converter
 - [Koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, A Static Analysis Tool For Shell Scripts
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API For Any Postgres Database
-
-## Haskell 
-
 - [Simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, Fast, Intuitive Plain Text Accounting Tool With CLI, TUI And Web Interfaces.
 - [Hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing Fast, Instant Realtime GraphQL APIs On Your DB With Fine Grained Access Control, Also Trigger Webhooks On Database Events.
 
@@ -3570,9 +3455,6 @@
 ## Homebrew 
 
 - [Goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go Binaries As Fast And Easily As Possible
-
-## Homebrew 
-
 - [Sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A Curated List Of Awesome MacOS Open Source Applications For MacOS. This List Contains A Lot Of Native, And Cross-platform Apps Inspired By Awesome-... Stuff.
 - [Bbkane/starghaze](https://github.com/bbkane/starghaze) - Save Information About Your GitHub Starred Repos Into Google Sheets, Zinc, And SQLite!
 - [Geektrovert/AwsTerm](https://github.com/Geektrovert/AwsTerm) - A Collection Of Awesome Terminal Utilities
@@ -3594,9 +3476,6 @@
 - [Thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The Perfect Front-End Checklist For Modern Websites And Meticulous Developers
 - [Mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python Source With Pelican, Bootstrap And Markdown.
 - [Videojs/video.js](https://github.com/videojs/video.js) - Video.js - Open Source HTML5 Video Player
-
-## Html 
-
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A Minimal Obsidian Plugin That Allows You To Add Your Own HTML Classes To Chosen Markdown Elements Directly From Your Notes.
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Exports Obsidian Documents As Html, Correctly Including All Styling And Formatting.
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown Parsing Library For .NET 6+, With Support For Obsidian Vaults Navigation.
@@ -3656,9 +3535,6 @@
 - [Mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [Videojs/video.js](https://github.com/videojs/video.js) - Video.js - Open Source HTML5 Video Player
 - [Chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts Using The &Lt;canvas&gt; Tag
-
-## Html5 
-
 - [LeeReid1/MarkdownToSiteGenerator](https://github.com/LeeReid1/MarkdownToSiteGenerator) - An Example Of My Code Style, For C# 11 And .NET Core 7.0. Written From Scratch Using Test-driven-development. The Solution Builds A Static Multiple-HTML-page Site From A Directory Of Markdown Files, H
 - [Laxmanbalaraman/Broken-Links-Finder](https://github.com/laxmanbalaraman/Broken-Links-Finder) - A Web Application To Find All The Dead Links In A Website
 - [JS-DevTools/rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - A Rehype Plugin To Inspect, Validate, Or Rewrite URLs Anywhere In An HTML Document
@@ -3704,9 +3580,6 @@
 - [Vapor/vapor](https://github.com/vapor/vapor) - 💧 A Server-side Swift HTTP Web Framework.
 - [Aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP Client/server Framework For Asyncio And Python
 - [Psf/requests](https://github.com/psf/requests) - A Simple, Yet Elegant, HTTP Library.
-
-## Http 
-
 - [Curl/curl](https://github.com/curl/curl) - A Command Line Tool And Library For Transferring Data With URL Syntax, Supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [Eikendev/urlprobe](https://github.com/eikendev/urlprobe) - A Tool For Probing URLs For Their Status Code From The Command Line (To Check For Broken Links In A Given List Of URLs) :Vertical_traffic_light::fire:
 - [Stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) - Find Broken Links, Missing Images, Etc Within Your HTML.
@@ -3730,9 +3603,6 @@
 - [Opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [Python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [Scikit-image/scikit-image](https://github.com/scikit-image/scikit-image) - Image Processing In Python
-
-## Image-processing 
-
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) - A GPU-accelerated Library Containing Highly Optimized Building Blocks And An Execution Engine For Data Processing To Accelerate Deep Learning Training And Inference Applications.
 - [Eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - Discover, Download, Compile & Launch Different Image Processing & Style Transfer CoreML Models On IOS.
 - [Po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator Lets You Generate GitHub Images Has Links To Repositories.
@@ -3801,9 +3671,6 @@
 - [Fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The Easiest Way To Automate Building And Releasing Your IOS And Android Apps
 - [Realm/realm-swift](https://github.com/realm/realm-swift) - Realm Is A Mobile Database: A Replacement For Core Data & SQLite
 - [Matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A Collaborative List Of Awesome Swift Libraries And Resources. Feel Free To Contribute!
-
-## Ios 
-
 - [Eugenebokhan/awesome-ml](https://github.com/eugenebokhan/awesome-ml) - Discover, Download, Compile & Launch Different Image Processing & Style Transfer CoreML Models On IOS.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore Is A Fork Of AltStore That Doesn't Require An AltServer.
 - [Extratone/shortcuts](https://github.com/extratone/shortcuts) - Can It Be... That We Can Really Maintain A Public Archive Of Installable Shortcuts Files Once Again?
@@ -3880,9 +3747,6 @@
 - [Kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (Project Under CNCF)
 - [Home-assistant/core](https://github.com/home-assistant/core) - :House_with_garden: Open Source Home Automation That Puts Local Control And Privacy First.
 - [Netdata/netdata](https://github.com/netdata/netdata) - Real-time Performance Monitoring, Done Right! Https://www.netdata.cloud
-
-## Iot 
-
 - [Heedy/heedy](https://github.com/heedy/heedy) - An Aggregator For Personal Metrics, And An Extensible Analysis Engine
 - [Sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere Is An Industrial Strength Open-source Application Enablement Platform For The Internet Of Things (IoT). It Provides A Multi-tenant Microservice-based Infrastructure That Includes Device/asse
 - [Thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device Management, Data Collection, Processing And Visualization.
@@ -3913,9 +3777,6 @@
 - [Apache/zeppelin](https://github.com/apache/zeppelin) - Web-based Notebook That Enables Data-driven, Interactive Data Analytics And Collaborative Documents With SQL, Scala And More.
 - [Apache/spark](https://github.com/apache/spark) - Apache Spark - A Unified Analytics Engine For Large-scale Data Processing
 - [Elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free And Open, Distributed, RESTful Search Engine
-
-## Java 
-
 - [Opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open Source Distributed And RESTful Search Engine.
 - [Matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project That Ingests Facebook Messenger Conversations And Generates Analytics.
 - [Oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter Analyzes 50 Languages, 22 Formats, 21 Tooling Formats, Excessive Copy-pastes, Spelling Mistakes And Security Issues In Your Repository Sources With A GitHub Action, Other CI Tools Or Loc
@@ -3996,9 +3857,6 @@
 - [Videojs/video.js](https://github.com/videojs/video.js) - Video.js - Open Source HTML5 Video Player
 - [Chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts Using The &Lt;canvas&gt; Tag
 - [Webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web Demos And Samples
-
-## Javascript 
-
 - [Stemrollerapp/stemroller](https://github.com/stemrollerapp/stemroller) - Isolate Vocals, Drums, Bass, And Other Instrumental Stems From Any Song
 - [Textlint/textlint](https://github.com/textlint/textlint) - The Pluggable Natural Language Linter For Text And Markdown.
 - [Cottom/chatgpt-prompt-helper](https://github.com/cottom/chatgpt-prompt-helper) - Help Your ChatGPT Conversation With Prompt
@@ -4146,9 +4004,6 @@
 
 - [Enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A Collection Of Awesome Things Regarding React Ecosystem
 - [Ionorg/ion](https://github.com/ionorg/ion) - Real-Distributed  RTC System By Pure Go And Flutter
-
-## Js 
-
 - [Kruemmelspalter/FileSpider](https://github.com/Kruemmelspalter/FileSpider) - FileSpider Is A Software For Organizing And Editing Documents Consisting Of A Main File And Optionally Different Assets Like Images.
 - [SkiingIsFun123/WaybackBrowserMacOS](https://github.com/SkiingIsFun123/WaybackBrowserMacOS) - Pick A Date And Explore Websites From The Early Days Of The Internet To Now All In An Easy-to-use Browser Format! 💻
 - [ShaanCoding/ReadME-Generator](https://github.com/ShaanCoding/ReadME-Generator) - An Awesome ReadME Generator To Jumpstart Your Projects!
@@ -4181,9 +4036,6 @@
 - [Chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The Most Comprehensive Database Of Chinese Poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, Written In Python + Flask.
 - [Lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis) - Mimesis Is A High-performance Fake Data Generator For Python, Which Provides Data For A Variety Of Purposes In A Variety Of Languages.
-
-## Json 
-
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian Vault From Day One (“DayOne”) JSON Using Command Line Scripts.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform Data Chaos Into Clarity With JSON Crack - The Ultimate JSON Visualization Solution.
 - [Jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website For JSON Resume. 🏡
@@ -4212,9 +4064,6 @@
 ## Julia 
 
 - [Plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards For Python. No JavaScript Required.
-
-## Julia 
-
 - [Plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards For Python. No JavaScript Required.
 - [Fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl) - 🎈 Simple Reactive Notebooks For Julia
 
@@ -4225,9 +4074,6 @@
 - [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) - 100-Days-Of-ML-Code中文版
 - [Jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user Server For Jupyter Notebooks
 - [Microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices On Recommendation Systems
-
-## Jupyter-notebook 
-
 - [Firmai/awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks And Repositories (By @Firmai)
 - [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The Most Advanced Yet Simple Jupyter Notebook To Transfer/manage Your Data From Any Cloud To Any Cloud Remotely Based On Rclone And Other Engines Remotely.⚡
 - [Br3ndonland/udacity-fsnd](https://github.com/br3ndonland/udacity-fsnd) - Udacity Full Stack Web Developer Nanodegree Program (FSND) Course Materials
@@ -4435,17 +4281,11 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter Written In Rust
 - [Rust-lang/rust](https://github.com/rust-lang/rust) - Empowering Everyone To Build Reliable And Efficient Software.
 - [Golang/go](https://github.com/golang/go) - The Go Programming Language
-
-## Language 
-
 - [Yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts) - ChatGPT And Bing AI Prompt Curation
 - [Onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A Curated List Of Machine Learning Resources, Preferably CoreML
 - [F/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This Repo Includes ChatGPT Prompt Curation To Use ChatGPT Better.
 - [Rust-lang/rust](https://github.com/rust-lang/rust) - Empowering Everyone To Build Reliable And Efficient Software.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome Cheatsheets For Popular Programming Languages, Frameworks And Development Tools. They Include Everything You Should Know In One Single File.
-
-## Languages 
-
 - [Orsinium-labs/awesome-generator](https://github.com/orsinium-labs/awesome-generator) - Generate Awesome List Over Github API
 - [Pushkarydv/devlinks](https://github.com/pushkarydv/devlinks) - Link Of All Daily Dev Tools And A Little Bit Data About Them
 
@@ -4488,9 +4328,6 @@
 - [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering All Info Published, Both By Apple And By Others, About New Framework SwiftUI.
 - [Denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :Book: For Those Who Wanna Learn Bash
-
-## Learning 
-
 - [Onmyway133/awesome-machine-learning](https://github.com/onmyway133/awesome-machine-learning) - 🎰 A Curated List Of Machine Learning Resources, Preferably CoreML
 - [Redd-Developer/howurls.work](https://github.com/Redd-Developer/howurls.work) - Learn How URLs Work By Visually Inspecting Their Structure.
 - [Cata-list/cata-list.github.io](https://github.com/cata-list/cata-list.github.io) - Useful Lists Of Some Of The Best Info, Media, Tools, And Quotes For Those Who Seek To Understand And Improve This World.
@@ -4513,9 +4350,6 @@
 - [Kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python Client Library For Kubernetes
 - [Oauthlib/oauthlib](https://github.com/oauthlib/oauthlib) - A Generic, Spec-compliant, Thorough Implementation Of The OAuth Request-signing Logic
 - [Grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang GRPC Middlewares: Interceptor Chaining, Auth, Logging, Retries And More.
-
-## Library 
-
 - [Acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse Engineered ChatGPT API
 - [Nodsoft/MoltenObsidian](https://github.com/Nodsoft/MoltenObsidian) - Obsidian-flavoured Markdown Parsing Library For .NET 6+, With Support For Obsidian Vaults Navigation.
 - [Curl/curl](https://github.com/curl/curl) - A Command Line Tool And Library For Transferring Data With URL Syntax, Supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -4559,9 +4393,6 @@
 - [Giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform Lib For Process And System Monitoring In Python
 - [Matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A Collaborative List Of Awesome Swift Libraries And Resources. Feel Free To Contribute!
 - [Jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master The Command Line, In One Page
-
-## Linux 
-
 - [Monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [Ssube/onnx-web](https://github.com/ssube/onnx-web) - Web UI For GPU-accelerated ONNX Pipelines Like Stable Diffusion, Even On Windows And AMD
 - [Lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows And Linux)
@@ -4619,9 +4450,6 @@
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly Powerful MacOS Desktop Automation With Lua
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A Community-driven Modular Vim/neovim Distribution - The Ultimate Vimrc
 - [Lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - Xdb) Is A Offline IP Address Manager Framework And Locator, Support Billions Of Data Segments, Ten Microsecond Searching Performance. Xdb Engine Implementation For Many Programming La
-
-## Lua 
-
 - [Neo-sh/neosh](https://github.com/neo-sh/neosh) - A Next-gen Shell For Modern Systems (Wip)
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A Community-driven Modular Vim/neovim Distribution - The Ultimate Vimrc
 - [Neovim/neovim](https://github.com/neovim/neovim) - Vim-fork Focused On Extensibility And Usability
@@ -4632,9 +4460,6 @@
 - [Qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / MacOS / Linux :Electron:
 - [Jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now We Have Become Very Big, Different From The Original Idea. Collect Premium Software In Various Categories.
 - [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
-
-## Mac 
-
 - [Sonnylazuardi/chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) - Unofficial ChatGPT Desktop App For Mac, Windows, & Linux Menubar Using Tauri & Rust
 - [Ydkhatri/MacForensics](https://github.com/ydkhatri/MacForensics) - Scripts To Process MacOS Forensic Artifacts
 - [Nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming Music Player That Finds Free Music For You
@@ -4684,9 +4509,6 @@
 - [Tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework For Everyone
 - [Nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [Scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - Scikit-learn: Machine Learning In Python
-
-## Machine-learning 
-
 - [Natooz/MidiTok](https://github.com/Natooz/MidiTok) - Convenient MIDI / Symbolic Music Tokenizers For Deep Learning Networks 🎶
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :Mega: Python Library For Audio Augmentation
 - [Ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List Of Articles Related To Deep Learning Applied To Music
@@ -4800,9 +4622,6 @@
 - [Flutter/flutter](https://github.com/flutter/flutter) - Flutter Makes It Easy And Fast To Build Beautiful Apps For Mobile And Beyond
 - [Onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A Lightweight, Pure-Swift Library For Downloading And Caching Images From The Web.
 - [Jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master The Command Line, In One Page
-
-## Macos 
-
 - [Monocasual/giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine.
 - [Sraodev/awesome-macOS](https://github.com/sraodev/awesome-macOS) - A Curated List Of Awesome MacOS Open Source Applications For MacOS. This List Contains A Lot Of Native, And Cross-platform Apps Inspired By Awesome-... Stuff.
 - [Lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows And Linux)
@@ -4882,9 +4701,6 @@
 - [Remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown Component For React
 - [Lepture/mistune](https://github.com/lepture/mistune) - A Fast Yet Powerful Python Markdown Parser With Renderers And Plugins.
 - [Mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python Source With Pelican, Bootstrap And Markdown.
-
-## Markdown 
-
 - [Darkmavis1980/markdown-index-generator](https://github.com/darkmavis1980/markdown-index-generator) - Parses A MarkDown Document And Creates An Index With Links Using The Document Headings
 - [Textlint/textlint](https://github.com/textlint/textlint) - The Pluggable Natural Language Linter For Text And Markdown.
 - [Joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - This Is A Free Open Source Tool, Created To Speed Up The Creation Time Of Our Readmes Files.
@@ -5059,9 +4875,6 @@
 ## Mastodon 
 
 - [Mastodon/mastodon](https://github.com/mastodon/mastodon) - Your Self-hosted, Globally Interconnected Microblogging Community
-
-## Mastodon 
-
 - [Nextcloud/social](https://github.com/nextcloud/social) - 🎉 Social Can Be Used For Work, Or To Connect To The Fediverse!
 - [Kennbroorg/iKy](https://github.com/kennbroorg/iKy) - OSINT Project
 
@@ -5072,9 +4885,6 @@
 - [Flutter/flutter](https://github.com/flutter/flutter) - Flutter Makes It Easy And Fast To Build Beautiful Apps For Mobile And Beyond
 - [Mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use Foundational React Components, Free Forever. It Includes Material UI, Which Implements Google's Material Design.
 - [HeroTransitions/Hero](https://github.com/HeroTransitions/Hero) - Elegant Transition Library For IOS & TvOS
-
-## Material-design 
-
 - [Litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your Own Personal Diary.
 - [Mfcar/TextTools](https://github.com/mfcar/TextTools) - Tools For Your Text
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An Awesome List That Curates The Best Flutter Libraries, Tools, Tutorials, Articles And More.
@@ -5086,9 +4896,6 @@
 - [Flutter/flutter](https://github.com/flutter/flutter) - Flutter Makes It Easy And Fast To Build Beautiful Apps For Mobile And Beyond
 - [Fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The Easiest Way To Automate Building And Releasing Your IOS And Android Apps
 - [Realm/realm-swift](https://github.com/realm/realm-swift) - Realm Is A Mobile Database: A Replacement For Core Data & SQLite
-
-## Mobile 
-
 - [WithSecureLabs/needle](https://github.com/WithSecureLabs/needle) - The IOS Security Testing Framework
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An Awesome List That Curates The Best Flutter Libraries, Tools, Tutorials, Articles And More.
 - [Yahoo/AppDevKit](https://github.com/yahoo/AppDevKit) - AppDevKit Is An IOS Development Library That Provides Developers With Useful Features To Fulfill Their Everyday IOS App Development Needs.
@@ -5101,9 +4908,6 @@
 - [Mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang Driver For MongoDB
 - [Pyeve/eve](https://github.com/pyeve/eve) - REST API Framework Designed For Human Beings
 - [Golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database Migrations. CLI And Golang Library.
-
-## Mongodb 
-
 - [Daniel31x13/linkwarden](https://github.com/Daniel31x13/linkwarden) - A Self-hosted Bookmark + Archive Manager To Store Your Useful Links.
 - [Matthewgrosman/messenger-analytics](https://github.com/matthewgrosman/messenger-analytics) - Project That Ingests Facebook Messenger Conversations And Generates Analytics.
 - [Tks18/gindex-v4](https://github.com/tks18/gindex-v4) - A Vue Js Based G Index With Improved Dark Mode, Search And Video Player
@@ -5152,9 +4956,6 @@
 - [Influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable Datastore For Metrics, Events, And Real-time Analytics
 - [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
 - [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
-
-## Monitoring 
-
 - [Urlstechie/urlchecker-action](https://github.com/urlstechie/urlchecker-action) - :Octocat: :Link: GitHub Action To Extract And Check Urls In Code And Documentations.
 - [Osquery/osquery](https://github.com/osquery/osquery) - SQL Powered Operating System Instrumentation, Monitoring, And Analytics.
 - [Statping/statping](https://github.com/statping/statping) - Status Page For Monitoring Your Websites And Applications With Beautiful Graphs, Analytics, And Plugins. Run On Any Type Of Environment.
@@ -5178,9 +4979,6 @@
 
 - [Qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / MacOS / Linux :Electron:
 - [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Swift Audio Synthesis, Processing, & Analysis Platform For IOS, MacOS And TvOS
-
-## Music 
-
 - [Tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename Multiple Audio/music Files Based On The ID3 Tag At Once. Written In Python3.
 - [Rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI Based Tool To Convert Vocals Text And Pitch From Music To Autogenerate Ultrastar, Midi And Notes. It Automatic Tapping, Adding Text, Pitch Vocals And Creates Karaoke Files.
 - [Spnw/free-music-plugins](https://github.com/spnw/free-music-plugins) - A List Of Free Audio And MIDI Plugins For Music Production
@@ -5265,9 +5063,6 @@
 - [Pingcap/tidb](https://github.com/pingcap/tidb) - TiDB Is An Open-source, Cloud-native, Distributed, MySQL-Compatible Database For Elastic Scale And Real-time Analytics. Try AI-powered Chat2Query Free At : Https://tidbcloud.com/free-trial
 - [Julien-duponchelle/python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication) - Pure Python Implementation Of MySQL Replication Protocol Build On Top Of PyMYSQL
 - [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
-
-## Mysql 
-
 - [Salahineo/bookmarks-manager](https://github.com/salahineo/bookmarks-manager) - Bookmarks Manager For Your Links
 - [Grafana/grafana](https://github.com/grafana/grafana) - The Open And Composable Observability And Data Visualization Platform. Visualize Metrics, Logs, And Traces From Multiple Sources Like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres And Many More.
 - [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting And Relational Data Browsing Tool.
@@ -5278,9 +5073,6 @@
 ## Neovim 
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A Community-driven Modular Vim/neovim Distribution - The Ultimate Vimrc
-
-## Neovim 
-
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&Gt; World's Most Advanced UNIX Terminal Environment
 - [Antoniosarosi/dotfiles](https://github.com/antoniosarosi/dotfiles) - My Dotfiles Repo, Here You Can Find All My Window Manager Configs As Well As Documentation And A Guide On How To Make Your Own Desktop Environment.
 - [Junegunn/fzf](https://github.com/junegunn/fzf) - :Cherry_blossom: A Command-line Fuzzy Finder
@@ -5296,9 +5088,6 @@
 - [PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning: Machine Learning Framework From Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
 - [Pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors And Dynamic Neural Networks In Python With Strong GPU Acceleration
 - [Tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework For Everyone
-
-## Neural-network 
-
 - [Ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning](https://github.com/ashishpatel26/Best-Audio-Classification-Resources-with-Deep-learning) - List Of Articles Related To Deep Learning Applied To Music
 - [Luuil/Tensorflow-Audio-Classification](https://github.com/luuil/Tensorflow-Audio-Classification) - Audio Classification With VGGish As Feature Extractor In TensorFlow
 - [Balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A Collection Of Audio And Speech Pre-trained Models.
@@ -5324,9 +5113,6 @@
 - [Giscus/giscus](https://github.com/giscus/giscus) - A Comment System Powered By GitHub Discussions. :Octocat: :Speech_balloon: :Gem:
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A One-of-a-kind Resume Builder That Keeps Your Privacy In Mind. Completely Secure, Customizable, Portable, Open-source And Free Forever. Try It Out Today!
 - [Vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-## Nextjs 
-
 - [Riffusion/riffusion-app](https://github.com/riffusion/riffusion-app) - Stable Diffusion For Real-time Music Generation (Web App)
 - [Daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A Front End GUI For Interacting With The Stable Horde / Stable Diffusion Distributed Cluster
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant Is A Chat-based Assistant That Understands Tasks, Can Interact With Third-party Systems, And Retrieve Information Dynamically To Do So.
@@ -5374,9 +5160,6 @@
 - [PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub) - Awesome Pre-trained Models Toolkit Based On PaddlePaddle. (400+ Models Including Image, Text, Audio, Video And Cross-Modal With Easy Inference & Serving)
 - [Huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning For Pytorch, TensorFlow, And JAX.
 - [Nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-
-## Nlp 
-
 - [Renumics/awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) - Curated List Of Open Source Tooling For Data-centric AI On Unstructured Data.
 - [Textlint/textlint](https://github.com/textlint/textlint) - The Pluggable Natural Language Linter For Text And Markdown.
 - [Neomatrix369/awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning And Deep Learning As We Learn It. Study Notes And A Curated List Of Awesome Resources Of Such Topics.
@@ -5401,9 +5184,6 @@
 - [Vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Websockets/ws](https://github.com/websockets/ws) - Simple To Use, Blazing Fast And Thoroughly Tested WebSocket Client And Server For Node.js
 - [Sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :Zap: Delightful Node.js Packages And Resources
-
-## Node 
-
 - [AndrejGajdos/link-preview-generator](https://github.com/AndrejGajdos/link-preview-generator) - Get Preview Data (A Title, Description, Image, Domain Name) From A Url. Library Uses Puppeteer Headless Browser To Scrape The Web Site.
 - [Vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML Front Matter Parser, Used By Metalsmith, Gatsby, Netlify, Assemble, Mapbox-gl, Phenomic, Vuejs Vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  Hashicorp, Garden, Slidev, Saber, S
@@ -5435,9 +5215,6 @@
 - [Webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming Torrent Client For The Web
 - [Websockets/ws](https://github.com/websockets/ws) - Simple To Use, Blazing Fast And Thoroughly Tested WebSocket Client And Server For Node.js
 - [Sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :Zap: Delightful Node.js Packages And Resources
-
-## Nodejs 
-
 - [Quilljou/transmart](https://github.com/Quilljou/transmart) - Automate Your I18n Localization With AI
 - [Souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert Notion Pages, Block And List Of Blocks To Markdown (Supports Nesting And Custom Parsing)
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT But With More Features
@@ -5504,9 +5281,6 @@
 - [Jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [Renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal Dependency Update Tool That Fits Into Your Workflows.
 - [Goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :White_check_mark:  The Node.js Best Practices List (March 2023)
-
-## Npm 
-
 - [LLazyEmail/markdown-regex](https://github.com/LLazyEmail/markdown-regex) - Set Of Constants That Can Help You To Parse Markdown Content
 - [Voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List Any Node_modules 📦 Dir In Your System And How Heavy They Are. You Can Then Select Which Ones You Want To Erase To Free Up Space 🧹
 - [Deinsoftware/swpm](https://github.com/deinsoftware/swpm) - Switch Package Manager
@@ -5518,9 +5292,6 @@
 - [Huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The Largest Hub Of Ready-to-use Datasets For ML Models With Fast, Easy-to-use And Efficient Data Manipulation Tools
 - [Pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors And Dynamic Neural Networks In Python With Strong GPU Acceleration
 - [Dask/dask](https://github.com/dask/dask) - Parallel Computing With Task Scheduling
-
-## Numpy 
-
 - [Donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data Science Python Notebooks: Deep Learning (TensorFlow, Theano, Caffe, Keras), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Matplotlib, Pandas, NumPy, SciPy, Python Essentials, AW
 
 ## Objective-c 
@@ -5533,9 +5304,6 @@
 - [Olucurious/Awesome-ARKit](https://github.com/olucurious/Awesome-ARKit) - A Curated List Of Awesome ARKit Projects And Resources. Feel Free To Contribute!
 - [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
 - [Realm/realm-swift](https://github.com/realm/realm-swift) - Realm Is A Mobile Database: A Replacement For Core Data & SQLite
-
-## Objective-c 
-
 - [Traurige/Ve](https://github.com/Traurige/Ve) - Natively Integrated Notification Logger
 - [Vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A Curated List Of Awesome IOS Ecosystem, Including Objective-C And Swift Projects
 - [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
@@ -5589,9 +5357,6 @@
 - [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
 - [SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - A Handy Collection Of More Than 500 Native Swift Extensions To Boost Your Productivity.
 - [Public-apis/public-apis](https://github.com/public-apis/public-apis) - A Collective List Of Free APIs
-
-## Open-source 
-
 - [Woochanleee/project-tree-generator](https://github.com/woochanleee/project-tree-generator) - 📦 Project Tree Generator
 - [C3n7ral051nt4g3ncy/Obsidian](https://github.com/C3n7ral051nt4g3ncy/Obsidian) - Obsidian Ancestry Investigations
 - [C3n7ral051nt4g3ncy/OSINT_Inception-links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) - Current Links From The OSINT Inception Start-me Project
@@ -5631,9 +5396,6 @@
 ## Operating-system 
 
 - [Phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing An OS In Rust
-
-## Operating-system 
-
 - [The-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources) - A List Of Resources In Different Fields Of Computer Science
 - [Jubalh/awesome-os](https://github.com/jubalh/awesome-os) - A List Of Operating Systems And Stuff
 
@@ -5644,9 +5406,6 @@
 - [Projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - Httpx Is A Fast And Multi-purpose HTTP Toolkit That Allows Running Multiple Probes Using The Retryablehttp Library.
 - [Qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, And Web App For Analyzing And Finding A Person's Profile In 1000 Social Media \ Websites
 - [Sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt Down Social Media Accounts By Username Across Social Networks
-
-## Osint 
-
 - [Six2dez/reconftw](https://github.com/six2dez/reconftw) - ReconFTW Is A Tool Designed To Perform Automated Recon On A Target Domain By Running The Best Set Of Tools To Perform Scanning And Finding Out Vulnerabilities
 - [Intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: Analyze Files, Domains, IPs In Multiple Ways From A Single API At Scale
 - [Theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
@@ -6018,9 +5777,6 @@
 - [Fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [Redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - [Redis/redis](https://github.com/redis/redis) - Redis Is An In-memory Database That Persists On Disk. The Data Model Is Key-value, But Many Different Kind Of Values Are Supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
-
-## Others 
-
 - [Anonymous-pits/pits](https://github.com/anonymous-pits/pits) - PITS: Variational Pitch Inference For End-to-end Pitch-controllable TTS Without External Pitch Predictor
 - [Showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - Tune-A-Video: One-Shot Tuning Of Image Diffusion Models For Text-to-Video Generation
 - [Cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A Single Bash Script To Create Blogs. Download, Run, Write, Done!
@@ -7270,9 +7026,6 @@
 - [Microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (Aka Winget)
 - [Python-poetry/poetry](https://github.com/python-poetry/poetry) - Python Packaging And Dependency Management Made Easy
 - [Gomods/athens](https://github.com/gomods/athens) - A Go Module Datastore And Proxy
-
-## Package-manager 
-
 - [Teaxyz/cli](https://github.com/teaxyz/cli) - The Next-generation, Cross‐platform Package Manager
 - [Marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A Better UI For Your Package Managers
 - [Damon-kwok/awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) - ☘ Awesome Package Manager Resources
@@ -7284,9 +7037,6 @@
 
 - [Marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift Framework For Parsing, Formatting And Validating International Phone Numbers. Inspired By Google's Libphonenumber.
 - [Pydantic/pydantic](https://github.com/pydantic/pydantic) - Data Validation Using Python Type Hints
-
-## Parsing 
-
 - [Ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract Web Links Information: Title, Description, Images, Videos, Etc. [Via OpenGraph], Runs On Mobiles And Node.
 - [Rpearce/parse-md](https://github.com/rpearce/parse-md) - Parse Markdown File's Metadata From Its Content
 - [Cyb3rk0tik/maigret](https://github.com/cyb3rk0tik/maigret) - Collect A Dossier On A Person By Username From A Huge Number Of Sites
@@ -7304,9 +7054,6 @@
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A Free, Self-hostable Aggregator…
 - [Dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's Update PR Creation Logic. Feedback: Https://github.com/orgs/community/discussions/categories/code-security
 - [Lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - Xdb) Is A Offline IP Address Manager Framework And Locator, Support Billions Of Data Segments, Ten Microsecond Searching Performance. Xdb Engine Implementation For Many Programming La
-
-## Php 
-
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A Platform To Create Documentation/wiki Content Built With PHP & Laravel
 - [Gharlan/alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow For Alfred 4
 - [Thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown) - Convert HTML To Markdown With PHP
@@ -7375,9 +7122,6 @@
 - [Psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL Database Adapter For The Python Programming Language
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A Fast PostgreSQL Database Client Library For Python/asyncio.
 - [Sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform Client For PostgreSQL Databases
-
-## Postgresql 
-
 - [Bookmarks-tools/bookmarks2db](https://github.com/bookmarks-tools/bookmarks2db) - :Bookmark: Examples Of Storing Bookmarks Data In A Database (Neo4j, PostgreSQL Using Mptt And Ltree)
 - [Net-runner/lynx](https://github.com/net-runner/lynx) - Lynx - Link And Bookmark Manager And Sharing Platform For The Wide Web. Next.js, Node.js + Hyper Express, Nx
 - [Jqnatividad/qsv](https://github.com/jqnatividad/qsv) - CSVs Sliced, Diced & Analyzed.
@@ -7388,9 +7132,6 @@
 ## Powershell 
 
 - [Starship/starship](https://github.com/starship/starship) - ☄🌌️  The Minimal, Blazing-fast, And Infinitely Customizable Prompt For Any Shell!
-
-## Powershell 
-
 - [Mediocreatmybest/gaslightingeveryone](https://github.com/mediocreatmybest/gaslightingeveryone) - Let's Gaslight Everything; Containers, ML, Scripts, And Everyone! #AUSPOL Can Wait.
 - [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator) - Simple Prompt Generator For Midjourney, DALLe, Stable And Disco Diffusion, And Etc.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A Blazing Fast Cross Platform/shell Prompt Renderer
@@ -7413,9 +7154,6 @@
 - [Codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master Programming By Recreating Your Favorite Technologies From Scratch.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript Code Snippets For All Your Development Needs
 - [Donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn How To Design Large-scale Systems. Prep For The System Design Interview.  Includes Anki Flashcards.
-
-## Programming 
-
 - [Hlorenzi/musicode](https://github.com/hlorenzi/musicode) - 🎶 Markup Language For Music Creation And Analysis! -- Https://hlorenzi.github.io/musicode/
 - [Theahmadov/slash](https://github.com/theahmadov/slash) - The Slash OSINT Tool
 - [Hl2guide/Awesome-Visual-Studio-Code-Extensions](https://github.com/hl2guide/Awesome-Visual-Studio-Code-Extensions) - A List Of Awesome Visual Studio Code Extensions.
@@ -7435,9 +7173,6 @@
 ## Publishing 
 
 - [Jgm/pandoc](https://github.com/jgm/pandoc) - Universal Markup Converter
-
-## Publishing 
-
 - [Mixasite/obsidian-mixa](https://github.com/mixasite/obsidian-mixa) - Publish Your Notes And Blog Posts Directly From Obsidian With Mixa
 - [Kollate/truegit-test](https://github.com/Kollate/truegit-test) - A Sample Blog Powered By Truegit
 - [Jiuguangw/dayone2latex](https://github.com/jiuguangw/dayone2latex) - DayOne2LaTeX Is Converts A Journal Written In The Day One App Into A LaTeX Book.
@@ -7445,9 +7180,6 @@
 ## Pwa 
 
 - [Qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / MacOS / Linux :Electron:
-
-## Pwa 
-
 - [Raucao/webmarks](https://github.com/raucao/webmarks) - RemoteStorage-enabled Bookmarking App
 - [Spiderpig86/spottr](https://github.com/Spiderpig86/spottr) - :Cactus: Your Spotify Stats All In One Place.
 - [Ishandeveloper/Portfolio](https://github.com/ishandeveloper/Portfolio) - A Fully Responsive Progressive Web App That I'm Currently Working On Which Will Contain An About Section, Showcase, Contact Etc.
@@ -7635,9 +7367,6 @@
 - [Getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first Error Tracking And Performance Monitoring
 - [Psf/requests](https://github.com/psf/requests) - A Simple, Yet Elegant, HTTP Library.
 - [Django/django](https://github.com/django/django) - The Web Framework For Perfectionists With Deadlines.
-
-## Python 
-
 - [Tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename Multiple Audio/music Files Based On The ID3 Tag At Once. Written In Python3.
 - [SuperKogito/pydiogment](https://github.com/SuperKogito/pydiogment) - :Mega: Python Library For Audio Augmentation
 - [Marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding Emotions From Audio Files Using Neural Networks And Multiple Datasets.
@@ -7852,9 +7581,6 @@
 - [Sdispater/pendulum](https://github.com/sdispater/pendulum) - Python Datetimes Made Easy
 - [Yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) - 《Python Cookbook》 3rd Edition Translation
 - [Mattmakai/fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python Source With Pelican, Bootstrap And Markdown.
-
-## Python3 
-
 - [Balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A Collection Of Audio And Speech Pre-trained Models.
 - [Marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding Emotions From Audio Files Using Neural Networks And Multiple Datasets.
 - [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) - Auto-Editor: Effort Free Video Editing!
@@ -7924,9 +7650,6 @@
 - [Intel-analytics/analytics-zoo](https://github.com/intel-analytics/analytics-zoo) - Distributed Tensorflow, Keras And PyTorch On Apache Spark/Flink & Ray
 - [Intel-analytics/BigDL](https://github.com/intel-analytics/BigDL) - Fast, Distributed, Secure AI For Big Data
 - [Ray-project/ray](https://github.com/ray-project/ray) - Ray Is A Unified Framework For Scaling AI And Python Applications. Ray Consists Of A Core Distributed Runtime And A Toolkit Of Libraries (Ray AIR) For Accelerating ML Workloads.
-
-## Pytorch 
-
 - [Alishdipani/Neural-Style-Transfer-Audio](https://github.com/alishdipani/Neural-Style-Transfer-Audio) - This Is PyTorch Implementation Of Neural Style Transfer Algorithm Which Is Modified For Audios.
 - [Balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A Collection Of Audio And Speech Pre-trained Models.
 - [KinWaiCheuk/nnAudio](https://github.com/KinWaiCheuk/nnAudio) - Audio Processing By Using Pytorch 1D Convolution Network
@@ -7948,9 +7671,6 @@
 
 - [Matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - Matplotlib: Plotting With Python
 - [Spyder-ide/spyder](https://github.com/spyder-ide/spyder) - Official Repository For Spyder - The Scientific Python Development Environment
-
-## Qt 
-
 - [Dvorka/mindforger](https://github.com/dvorka/mindforger) - Thinking Notebook And Markdown Editor.
 
 ## R 
@@ -7958,9 +7678,6 @@
 - [Plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards For Python. No JavaScript Required.
 - [Oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :Rocket:
 - [Apache/spark](https://github.com/apache/spark) - Apache Spark - A Unified Analytics Engine For Large-scale Data Processing
-
-## R 
-
 - [Trinker/textclean](https://github.com/trinker/textclean) - Tools For Cleaning And Normalizing Text Data
 - [Juliasilge/tidytext](https://github.com/juliasilge/tidytext) - Text Mining Using Tidy Tools :Sparkles::page_facing_up::sparkles:
 - [Tslmy/GoQuantifyYourself](https://github.com/tslmy/GoQuantifyYourself) - Visualizing Quantified Self Data With R.
@@ -7970,9 +7687,6 @@
 ## Rails 
 
 - [Chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source Customer Engagement Suite, An Alternative To Intercom, Zendesk, Salesforce Service Cloud Etc. 🔥💬
-
-## Rails 
-
 - [Blackcandy-org/black_candy](https://github.com/blackcandy-org/black_candy) - A Self Hosted Music Streaming Server
 - [Unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :House::information_source: Curated List Of Awesome Open Source Crafted Web & Mobile Applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
@@ -7981,9 +7695,6 @@
 - [Getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A Beautiful Personal/home Server OS For Self-hosting With An App Store. Install On A Raspberry Pi 4, Any Ubuntu/Debian System, Or A VPS.
 - [Pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A Black Hole For Internet Advertisements
 - [Home-assistant/core](https://github.com/home-assistant/core) - :House_with_garden: Open Source Home Automation That Puts Local Control And Privacy First.
-
-## Raspberry-pi 
-
 - [Navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server And Streamer Compatible With Subsonic/Airsonic
 - [Sitewhere/sitewhere](https://github.com/sitewhere/sitewhere) - SiteWhere Is An Industrial Strength Open-source Application Enablement Platform For The Internet Of Things (IoT). It Provides A Multi-tenant Microservice-based Infrastructure That Includes Device/asse
 - [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome Collection Of Resources 😎 Work In Progress🔥
@@ -8025,9 +7736,6 @@
 - [Facebook/create-react-app](https://github.com/facebook/create-react-app) - Set Up A Modern Web App By Running One Command.
 - [Apache/superset](https://github.com/apache/superset) - Apache Superset Is A Data Visualization And Data Exploration Platform
 - [Influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable Datastore For Metrics, Events, And Real-time Analytics
-
-## React 
-
 - [Subrotokumar/enhanced-chatgpt](https://github.com/subrotokumar/enhanced-chatgpt) - Enhanced ChatGPT Is OpenAI Powered Project That Uses Natural Language Processing (NLP) To Simulate A Conversation Between A User And A Computer. It Is Used To Provide Automated Customer Service, Suppo
 - [JesseKartabani/chat-gpt-enhanced](https://github.com/JesseKartabani/chat-gpt-enhanced) - ChatGPT But With More Features
 - [JesseKartabani/ai-image-gen](https://github.com/JesseKartabani/ai-image-gen) - AI Image Generator With Open AI
@@ -8128,9 +7836,6 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [Chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components For Your React Applications
 - [Ansible/awx](https://github.com/ansible/awx) - AWX Provides A Web-based User Interface, REST API, And Task Engine Built On Top Of Ansible. It Is One Of The Upstream Projects For Red Hat Ansible Automation Platform.
-
-## Reactjs 
-
 - [Ferrufinob/Bookmarkd_Frontend](https://github.com/ferrufinob/Bookmarkd_Frontend) - Pinterest Inspired Picture-sharing Web Application With ReactJS/Redux Front-end And Rails API Back-end.
 - [Joselatines/readme-project-generator](https://github.com/joselatines/readme-project-generator) - This Is A Free Open Source Tool, Created To Speed Up The Creation Time Of Our Readmes Files.
 - [Daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A Front End GUI For Interacting With The Stable Horde / Stable Diffusion Distributed Cluster
@@ -8166,9 +7871,6 @@
 - [Mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost Is An Open Source Platform For Secure Collaboration Across The Entire Software Development Lifecycle.
 - [Danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered Component To Easily Create Skeleton Loadings.
 - [Dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :Iphone: Collaborative List Of Open-Source IOS Apps
-
-## React-native 
-
 - [Enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A Collection Of Awesome Things Regarding React Ecosystem
 - [Ospfranco/link-preview-js](https://github.com/ospfranco/link-preview-js) - ⛓ Extract Web Links Information: Title, Description, Images, Videos, Etc. [Via OpenGraph], Runs On Mobiles And Node.
 - [Ospfranco/sol](https://github.com/ospfranco/sol) - MacOS Launcher & Command Palette
@@ -8181,9 +7883,6 @@
 ## Redux 
 
 - [VergeGroup/swift-Verge](https://github.com/VergeGroup/swift-Verge) - 🟣 Verge Is A Very Tunable State-management Engine On IOS App (UIKit / SwiftUI) And Built-in ORM.
-
-## Redux 
-
 - [Ferrufinob/Bookmarkd_Frontend](https://github.com/ferrufinob/Bookmarkd_Frontend) - Pinterest Inspired Picture-sharing Web Application With ReactJS/Redux Front-end And Rails API Back-end.
 - [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - The ⚡️ Analytics-intensive, Self-hostable Link-shortener With A Beautiful UI | AKA Free Bit.ly Alternative 🚀
 - [Manasecurity/mana-security-app](https://github.com/manasecurity/mana-security-app) - MacOS Vulnerability Management For Individuals
@@ -8204,9 +7903,6 @@
 - [Swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [Grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - GRPC To JSON Proxy Generator Following The GRPC HTTP Spec
 - [Swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) - Swagger UI Is A Collection Of HTML, JavaScript, And CSS Assets That Dynamically Generate Beautiful Documentation From A Swagger-compliant API.
-
-## Rest-api 
-
 - [Kimeggler/spotifystatistics](https://github.com/kimeggler/spotifystatistics) - Personalized Stats For Your Spotify Profile.
 - [Pushkarydv/public-apis-api](https://github.com/pushkarydv/public-apis-api) - List Of 1400+ Apis Their Documentation, Properties And A Lot More All Divided Into 50+ Cateogories All This Data Just A Api Call Away 🚀
 - [Hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing Fast, Instant Realtime GraphQL APIs On Your DB With Fine Grained Access Control, Also Trigger Webhooks On Database Events.
@@ -8218,9 +7914,6 @@
 - [Majd/ipatool](https://github.com/majd/ipatool) - Command-line Tool That Allows Searching And Downloading App Packages (Known As Ipa Files) From The IOS App Store
 - [Alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically Reverse-engineer REST APIs Via Capturing Traffic
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor For Reverse Engineers, Programmers And People Who Value Their Retinas When Working At 3 AM.
-
-## Reverse-engineering 
-
 - [Acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse Engineered API Of Microsoft's Bing Chat
 - [ReagentX/imessage-exporter](https://github.com/ReagentX/imessage-exporter) - Export MacOS IMessage Data + Run IMessage Diagnostics
 - [Evilpenguin/SSLBypass](https://github.com/evilpenguin/SSLBypass) - IOS SSL Pinning Bypass (IOS 8 - 14)
@@ -8246,9 +7939,6 @@
 - [Oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :Rocket:
 - [Serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome List Of Open Source Applications For MacOS. Https://t.me/s/opensourcemacosapps
 - [Fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The Easiest Way To Automate Building And Releasing Your IOS And Android Apps
-
-## Ruby 
-
 - [Lfzawacki/musical-artifacts](https://github.com/lfzawacki/musical-artifacts) - Helping To Catalog, Preserve And Free The Artifacts You Need To Produce Music.
 - [Alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now With ChatGPT And Whisper...
 - [Michaeltelford/broken_link_finder](https://github.com/michaeltelford/broken_link_finder) - Finds A Websites Broken Links And Reports Back To You With A Summary
@@ -8314,9 +8004,6 @@
 - [Rust-lang/rust](https://github.com/rust-lang/rust) - Empowering Everyone To Build Reliable And Efficient Software.
 - [Tikv/tikv](https://github.com/tikv/tikv) - Distributed Transactional Key-value Database, Originally Created To Complement TiDB
 - [Lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - Xdb) Is A Offline IP Address Manager Framework And Locator, Support Billions Of Data Segments, Ten Microsecond Searching Performance. Xdb Engine Implementation For Many Programming La
-
-## Rust 
-
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (Currently Incomplete) Open-source Digital Audio Workstation, Made By Musicians, For Musicians
 - [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My Curated List Of Audio DSP And Plugin Development Resources
 - [Dhravya/readme-generator](https://github.com/Dhravya/readme-generator) - A Very Easy-to-use README Generator That Works In Your Terminal. Never Stress About Readme Again!
@@ -8347,9 +8034,6 @@
 
 - [Chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source Customer Engagement Suite, An Alternative To Intercom, Zendesk, Salesforce Service Cloud Etc. 🔥💬
 - [Elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
-
-## Sass 
-
 - [Adarsh500/mark](https://github.com/adarsh500/mark) - A Bookmark Management Web App With Sleek UI And Cool Features
 - [Mmacneil/devfolio](https://github.com/mmacneil/devfolio) - A Simple, Responsive, Single-page Portfolio And Resume For Developers Built With Bulma, Sass, Font Awesome And Flickity.
 - [0xAliRaza/0xfolio](https://github.com/0xAliRaza/0xfolio) - A Free HTML Portfolio Template For Developers.
@@ -8367,9 +8051,6 @@
 ## Scikit-learn 
 
 - [Dask/dask](https://github.com/dask/dask) - Parallel Computing With Task Scheduling
-
-## Scikit-learn 
-
 - [Krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - Probably The Best Curated List Of Data Science Software In Python.
 - [Donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data Science Python Notebooks: Deep Learning (TensorFlow, Theano, Caffe, Keras), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Matplotlib, Pandas, NumPy, SciPy, Python Essentials, AW
 
@@ -8410,9 +8091,6 @@
 - [Ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect And OAuth Provider Written In Go - Cloud Native, Security-first, Open Source API Security For Your Infrastructure. SDKs For Any Language. Works With Hardware Security 
 - [Mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An Interactive TLS-capable Intercepting HTTP Proxy For Penetration Testers And Software Developers.
 - [Facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant Type-checking For Python.
-
-## Security 
-
 - [Six2dez/reconftw](https://github.com/six2dez/reconftw) - ReconFTW Is A Tool Designed To Perform Automated Recon On A Target Domain By Running The Best Set Of Tools To Perform Scanning And Finding Out Vulnerabilities
 - [Edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering Tool - DNS / Subdomains / Ports / Directories Enumeration
 - [Hahwul/deadfinder](https://github.com/hahwul/deadfinder) - 🏴‍☠️ Find Dead-links (Broken Links)
@@ -8469,9 +8147,6 @@
 - [Ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect And OAuth Provider Written In Go - Cloud Native, Security-first, Open Source API Security For Your Infrastructure. SDKs For Any Language. Works With Hardware Security 
 - [Gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin Is A HTTP Web Framework Written In Go (Golang). It Features A Martini-like API With Much Better Performance -- Up To 40 Times Faster. If You Need Smashing Performance, Get Yourself Some Gin.
 - [Vapor/vapor](https://github.com/vapor/vapor) - 💧 A Server-side Swift HTTP Web Framework.
-
-## Server 
-
 - [CobyPear/obsidian-diy-sync](https://github.com/CobyPear/obsidian-diy-sync) - Obsidian.md Plugin + Expressjs Server For Syncing And Publishing Markdown Content
 - [Linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application Dashboard And Launcher
 - [Http-party/http-server](https://github.com/http-party/http-server) - A Simple Zero-configuration Command-line Http Server
@@ -8506,9 +8181,6 @@
 - [Openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [Pingcap/tidb](https://github.com/pingcap/tidb) - TiDB Is An Open-source, Cloud-native, Distributed, MySQL-Compatible Database For Elastic Scale And Real-time Analytics. Try AI-powered Chat2Query Free At : Https://tidbcloud.com/free-trial
 - [Cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape Filters And Sorts Hundreds Of Projects And Products, And Shows Details Including GitHub Stars, Funding Or Market Cap, First And Last Commits, Contributor Count
-
-## Serverless 
-
 - [Harish-sethuraman/readme-components](https://github.com/harish-sethuraman/readme-components) - Cards For Your Readme
 - [Vimtaai/gumdrop](https://github.com/vimtaai/gumdrop) - Script To Display Markdown Documents As Static HTML Pages
 - [Runpod/serverless-workers](https://github.com/runpod/serverless-workers) - ⚙️ | Official Set Of Serverless Worker Provided By RunPod As Endpoints.
@@ -8535,9 +8207,6 @@
 - [Tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative Cheatsheets For Console Commands
 - [Denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :Book: For Those Who Wanna Learn Bash
 - [Ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A Delightful Community-driven (With 2,100+ Contributors) Framework For Managing Your Zsh Configuration. Includes 300+ Optional Plugins (Rails, Git, MacOS, Hub, Docker, Homebrew, Node, Php, Python,
-
-## Shell 
-
 - [Warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp Is A Blazingly-fast Modern Rust Based GPU-accelerated Terminal Built To Make You And Your Team More Productive.
 - [Fezcode/bm](https://github.com/fezcode/bm) - Bookmark Manager
 - [Tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative Cheatsheets For Console Commands
@@ -8564,18 +8233,12 @@
 ## Sketch 
 
 - [Tldraw/tldraw](https://github.com/tldraw/tldraw) - A Tiny Little Drawing App.
-
-## Sketch 
-
 - [Anmol-Baranwal/Awesome-Illustrations-4Projects](https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects) - 🔥 An Awesome List Of Illustrations To Improve Your Projects, Posts & Portfolios. Fork & Add Your Own.
 
 ## Software 
 
 - [Jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now We Have Become Very Big, Different From The Original Idea. Collect Premium Software In Various Categories.
 - [Public-apis/public-apis](https://github.com/public-apis/public-apis) - A Collective List Of Free APIs
-
-## Software 
-
 - [Luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A List Of Awesome Linux Softwares
 - [RShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection Of Awesome Podcasts
 - [Public-apis/public-apis](https://github.com/public-apis/public-apis) - A Collective List Of Free APIs
@@ -8587,9 +8250,6 @@
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A Community-driven Modular Vim/neovim Distribution - The Ultimate Vimrc
 
-## Spacevim 
-
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A Community-driven Modular Vim/neovim Distribution - The Ultimate Vimrc
 
 ## Spring-boot 
 
