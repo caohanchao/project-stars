@@ -54,6 +54,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -459,6 +460,7 @@
 - [benjysugi/InternetArchiveDownloader](https://github.com/benjysugi/InternetArchiveDownloader) - A program that allows you to download folders posted on the Internet Archive in full without using the torrent
 - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - An open-source, self-hosted, low-code framework to build internal tools, web apps, admin panels, BI dashboards, workflows, and CRUD apps with YAML or JSON.
 - [extratone/shortcuts](https://github.com/extratone/shortcuts) - Can it be... that we can really maintain a public archive of installable Shortcuts files once again?
+- [shockz-offsec/DriveMyFiles](https://github.com/shockz-offsec/DriveMyFiles) - DriveMyFiles offers through an intuitive and easy to use interface, the possibility to easily backup manually or automatically to Google Drive the files/directories you want by selecting them through 
 - [CompSciLauren/awesome-git-hooks](https://github.com/CompSciLauren/awesome-git-hooks) - :anchor: A curated list of awesome git hooks
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1452,6 +1454,11 @@
 - [quickgrid/ai-resources](https://github.com/quickgrid/ai-resources) - Various resources for AI, Deep Learning, Computer Vision, Computer Graphics etc. for my learning.
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AW
 - [tonybeltramelli/Deep-Spying](https://github.com/tonybeltramelli/Deep-Spying) - Spying using Smartwatch and Deep Learning
+
+## deno 
+
+- [bdudelsack/github-stars-export](https://github.com/bdudelsack/github-stars-export) - Generate Obsidian compatible Markdown files out of GitHub's starred repositories.
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 
 ## deployment 
 
@@ -3800,7 +3807,7 @@
 - [yanenok/obsidian-images-plugin](https://github.com/yanenok/obsidian-images-plugin) - Easy image layouts for Obsidian
 - [vertis/obsidian-image-layouts](https://github.com/vertis/obsidian-image-layouts) - 
 - [zremboldt/obsidian-media-grid](https://github.com/zremboldt/obsidian-media-grid) - Add more meaning and visual interest to your markdown documents by grouping sets of images, videos, or even audio tracks into grid layouts in Obsidian.
-- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generat
+- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
 - [pinilpypinilpy/sd-webui-colab-simplified](https://github.com/pinilpypinilpy/sd-webui-colab-simplified) - A one-click version of sd-webui-colab
 - [abhishek-nigam/raindrop-backup-bookmarks](https://github.com/abhishek-nigam/raindrop-backup-bookmarks) - A simple tool I use to backup my bookmarks from Raindrop.io service
 - [antonnagorniy/raindrop-io-api-client](https://github.com/antonnagorniy/raindrop-io-api-client) - 
