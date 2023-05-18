@@ -181,7 +181,7 @@
 - [brunobritodev/awesome-github-stats](https://github.com/brunobritodev/awesome-github-stats) - 🚀 Show everyone how amazing you are! Stay motivated and display your total contributions and level on your GitHub profile README
 - [Otiel/BandcampDownloader](https://github.com/Otiel/BandcampDownloader) - A Windows app used to download albums from Bandcamp.
 - [erwinkramer/SoundCloud-Playlist-Sync](https://github.com/erwinkramer/SoundCloud-Playlist-Sync) - Improvement fork
-- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - It's your music. Play it your way.
+- [Arlodotexe/strix-music](https://github.com/Arlodotexe/strix-music) - Combine any music sources into a single library. It's your music. Play it your way.
 - [runerasmussen/google-photos-upload](https://github.com/runerasmussen/google-photos-upload) - Upload a local image directory into an Album in Google Photos (works on mac/pc/linux). Coded in C# .NET Core 3.0
 - [silnshadow/InstagramMessages](https://github.com/silnshadow/InstagramMessages) - This project is an attempt to make Instagram backup messages from Json to readable format.
 - [Sungchul/DayOne.NET](https://github.com/Sungchul/DayOne.NET) - Day One Journal for Windows(based on .net framework)
@@ -274,7 +274,6 @@
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [Birdie0/userstyles](https://github.com/Birdie0/userstyles) - Small collection of "css patches"
 - [obsidian-community/obsidian-hub](https://github.com/obsidian-community/obsidian-hub) - Resource hub for Obsidian resources.
-- [Lisandra-dev/obsidian-hub](https://github.com/Lisandra-dev/obsidian-hub) - Resource hub for Obsidian resources.
 - [docschina/GFM-docs](https://github.com/docschina/GFM-docs) - [印记中文](https://docschina.org/) - GitHub 风格 Markdown 规范(GitHub Flavored Markdown Spec)
 - [mil/markdown-tree](https://github.com/mil/markdown-tree) - A Sinatra script to serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.
 - [ravatsindhav/Instagram-Backup-Data-Viewer-Latest-Format](https://github.com/ravatsindhav/Instagram-Backup-Data-Viewer-Latest-Format) - To view the download backup data(message) of instagram for the new format
@@ -2899,7 +2898,7 @@
 - [daveschumaker/artbot-for-stable-diffusion](https://github.com/daveschumaker/artbot-for-stable-diffusion) - A front end GUI for interacting with the Stable Horde / Stable Diffusion distributed cluster
 - [Tronic247/terminai](https://github.com/Tronic247/terminai) - Generate cli commands with natural language
 - [coffee-cup/obsidian-vault-parser](https://github.com/coffee-cup/obsidian-vault-parser) - Vault parser for the Obsidian note taking app
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+- [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [chaosreactor/chaosreactor](https://github.com/chaosreactor/chaosreactor) - Chaos Reactor makes generative AI accessible to all 🧪
 - [abhagsain/ai-cli](https://github.com/abhagsain/ai-cli) - Get answers for CLI commands from GPT3 right from your terminal
 - [jamesmeisler/twitter-stats](https://github.com/jamesmeisler/twitter-stats) - User Twitter Stats
