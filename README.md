@@ -362,7 +362,7 @@
 - [edoardottt/scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [mhmdiaa/chronos](https://github.com/mhmdiaa/chronos) - Extract pieces of info from a web page's Wayback Machine history
-- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs passively from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
+- [hueristiq/xurlfind3r](https://github.com/hueristiq/xurlfind3r) - A CLI utility to find domain's known URLs from AlienVault's Open Threat Exchange, Common Crawl, Github, Intelligence X, URLScan, and the Wayback Machine.
 - [po3rin/github_link_creator](https://github.com/po3rin/github_link_creator) - GitHub Link Card Creator lets you generate GitHub images has links to repositories.
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [dwisiswant0/galer](https://github.com/dwisiswant0/galer) - A fast tool to fetch URLs from HTML attributes by crawl-in.
@@ -445,7 +445,6 @@
 - [Illegal-Services/Illegal_Services](https://github.com/Illegal-Services/Illegal_Services) - ♾️🌚✨Illegal Services✨🌚♾️
 - [aihubgg/MidJourney-Wiki](https://github.com/aihubgg/MidJourney-Wiki) - MidJourney Community Wiki
 - [osvik/prompt-generators](https://github.com/osvik/prompt-generators) - Prompt generator for Midjourney and maybe other AIs in the future.
-- [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
@@ -1780,7 +1779,7 @@
 - [vzhd1701/csv2notion](https://github.com/vzhd1701/csv2notion) - Import/Merge CSV files into Notion database
 - [Cobertos/md2notion](https://github.com/Cobertos/md2notion) - A better Notion.so Markdown importer
 - [Saik0s/DevAssistant](https://github.com/Saik0s/DevAssistant) - Personal Task-Driven Autonomous Agent
-- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab.
+- [zetavg/LLaMA-LoRA-Tuner](https://github.com/zetavg/LLaMA-LoRA-Tuner) - UI tool for fine-tuning and testing your own LoRA models base on LLaMA, GPT-J and more. One-click run on Google Colab. + A Gradio ChatGPT-like Chat UI to demonstrate your language models.
 - [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt) - Modular Auto-GPT Framework
 - [avocardio/GPT-agents](https://github.com/avocardio/GPT-agents) - Browsing-enabled GPT agents with different personalities.
 - [kreneskyp/ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
@@ -1920,6 +1919,7 @@
 - [nxvvvv/warp-plus](https://github.com/nxvvvv/warp-plus) - Get free WARP+ GBs in CloudFlare's 1.1.1.1!!
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Vector search for humans.
 - [SerjSX/pSearch](https://github.com/SerjSX/pSearch) - Searching tool written in Python for Piracy related websites.
+- [Yachay-AI/byt5-geotagging](https://github.com/Yachay-AI/byt5-geotagging) - Open Source Natural Language Processing solution. Supervised text-based geolocation detection - Deep Learning infrastructure + data sets available to the public.
 - [x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer) - Tweets metadata scraper & activity analyzer
 - [sb-haz/twitter-wrapped](https://github.com/sb-haz/twitter-wrapped) - Brings the Spotify Wrapped concept to Twitter.
 - [AdvitDeepak/messages-wrapped](https://github.com/AdvitDeepak/messages-wrapped) - NLP analysis and dashboard of user's messages (Instagram, iMessage, Android)
