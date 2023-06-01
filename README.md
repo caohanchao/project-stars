@@ -155,7 +155,7 @@
 
 ## C# # 
 
-- [jopilot-net/jopilot-4-job-seekers](https://github.com/jopilot-net/jopilot-4-job-seekers) - The prompts supported by JoPilot
+- [copilot-us/chatgpt-plugins](https://github.com/copilot-us/chatgpt-plugins) - Official ChatGPT Plugins🧩
 - [morning4coffe-dev/storylines](https://github.com/morning4coffe-dev/storylines) - Storylines is a modern text editor for writing stories divided into chapters.
 - [Ruzzie/Textorizer](https://github.com/Ruzzie/Textorizer) - Sanitize and 'clean' html for safe consumption in a plain text format.
 - [SeanErvinson/TextFormatter](https://github.com/SeanErvinson/TextFormatter) - Formats texts into programmer specific format
