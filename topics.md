@@ -240,7 +240,7 @@
 - [pbk123461/ChatGPT](https://github.com/pbk123461/ChatGPT) - An amazing open-source web app that allows you to use OpenAI's ChatGPT!. see in releases for link does not recommend github.io link unstable
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
-- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Chatbot with realistic Long Term Memory  and task-specific modules using GPT 3.5 Turbo, GPT 4, and Pinecone.
+- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Chatbot with realistic Long Term Memory  and task-specific modules using GPT 3.5 Turbo 16k, GPT 4, and Pinecone.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -3991,7 +3991,7 @@
 - [bramses/summarize-with-gpt3-obsidian](https://github.com/bramses/summarize-with-gpt3-obsidian) - Summarize text with GPT-3 in Obsidian (progressive summarization)
 - [rajputd/obsidian-metrics](https://github.com/rajputd/obsidian-metrics) - a simple app to track metrics on obsidian usage
 - [PassionPenguin/obsidian-coded-card](https://github.com/PassionPenguin/obsidian-coded-card) - 
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [oguzhaninan/Buka](https://github.com/oguzhaninan/Buka) - Buka is a modern software that helps you manage your ebook at ease.
 - [noonesimg/obsidian-audio-player](https://github.com/noonesimg/obsidian-audio-player) - audio player plugin with bookmarks for Obsidian.md
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
