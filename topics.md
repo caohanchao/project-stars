@@ -240,7 +240,7 @@
 - [pbk123461/ChatGPT](https://github.com/pbk123461/ChatGPT) - An amazing open-source web app that allows you to use OpenAI's ChatGPT!. see in releases for link does not recommend github.io link unstable
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
-- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Chatbot with realistic Long Term Memory  and task-specific modules using GPT 3.5 Turbo 16k, GPT 4, and Pinecone.
+- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Chatbot with realistic Long Term Memory  and task-specific modules using GPT 3.5 Turbo 16k, GPT 4, or the Oobabooga API.  Pinecone is used for the DB.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A batteries-included library for building AI-powered software
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
@@ -3897,7 +3897,7 @@
 - [InterwebAlchemy/obsidian-ai-research-assistant](https://github.com/InterwebAlchemy/obsidian-ai-research-assistant) - Prompt Engineering Research Tool for AI APIs
 - [olrenso/obsidian-home-tab](https://github.com/olrenso/obsidian-home-tab) - A browser-like search tab for your local files in Obsidian.
 - [Mahamedm/Riffusion_AI_Image_Music-generator_Gardio](https://github.com/Mahamedm/Riffusion_AI_Image_Music-generator_Gardio) - This code includes a collection of tools for processing audio files, specifically for converting spectrogram images to audio waveforms and vice versa.
-- [aecorredor/awesome-music-production](https://github.com/aecorredor/awesome-music-production) - Wiki repo housing a bunch of resources for music production.
+- [tangibleaudio/awesome-music-production](https://github.com/tangibleaudio/awesome-music-production) - Wiki repo housing a bunch of resources for music production.
 - [kmatheussen/radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker.
 - [stargatedaw/stargate](https://github.com/stargatedaw/stargate) - Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor
 - [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A script for creating seamless music loops, with play/export support.
