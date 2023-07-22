@@ -241,7 +241,7 @@
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A highly customizable Ai Companion/Assistant/Agent with realistic Long Term Memory  and task-specific modules using GPT 3.5 Turbo 16k, GPT 4, or the Oobabooga API.  Pinecone is used for the DB.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [mrsaeeddev/free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [tg12/gpt_jailbreak_status](https://github.com/tg12/gpt_jailbreak_status) - This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
@@ -466,7 +466,6 @@
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [jhrcook/openai-expt](https://github.com/jhrcook/openai-expt) - Experimenting with the OpenAI model APIs.
 - [TiagoMarinho/Soph](https://github.com/TiagoMarinho/Soph) - A discord bot for generating images with artificial intelligence
-- [De-Rune/luna](https://github.com/De-Rune/luna) - text to image generation
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused o
 - [Ezagor-dev/Midjourney_Prompt](https://github.com/Ezagor-dev/Midjourney_Prompt) - Midjourney
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -3114,6 +3113,7 @@
 - [varunsridharan/action-dynamic-readme](https://github.com/varunsridharan/action-dynamic-readme) - ~ Dynamic ReadME Generator ~
 - [LilaRest/obsidian-custom-classes](https://github.com/LilaRest/obsidian-custom-classes) - A minimal Obsidian plugin that allows you to add your own HTML classes to chosen Markdown elements directly from your notes.
 - [souvikinator/notion-to-md](https://github.com/souvikinator/notion-to-md) - Convert notion pages, block and list of blocks to markdown (supports nesting and custom parsing)
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README.md files from the terminal. Powered by OpenAI's GPT LLMs 💫
 - [0dB/dayone-json-to-obsidian](https://github.com/0dB/dayone-json-to-obsidian) - Update Obsidian vault from Day One (“DayOne”) JSON using command line scripts.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 - [akaalias/getstreamline](https://github.com/akaalias/getstreamline) - Streamline is a stream-of-consciousness writer for Obsidian
@@ -3951,7 +3951,6 @@
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [RocketGod-git/PowerShell-for-Hackers](https://github.com/RocketGod-git/PowerShell-for-Hackers) - This repository is a collection of powershell functions every hacker should know
 - [RocketGod-git/ChatGPT-Creations](https://github.com/RocketGod-git/ChatGPT-Creations) - A compilation of anonymous user ChatGPT prompt responses
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate awesome README.md files from the terminal, powered by OpenAI's GPT language model APIs 💫
 - [jordanweaver/midjourn-prompts](https://github.com/jordanweaver/midjourn-prompts) - Tool for generating Midjourney prompts using custom word banks.
 - [mschlegel81/Image_Generation](https://github.com/mschlegel81/Image_Generation) - Simple image generation and manipulation program
 - [qunash/stable-diffusion-2-gui](https://github.com/qunash/stable-diffusion-2-gui) - Lightweight Stable Diffusion v 2.1 web UI: txt2img, img2img, depth2img, inpaint and upscale4x.
@@ -4090,7 +4089,7 @@
 - [Acidham/search-alfred-workflows](https://github.com/Acidham/search-alfred-workflows) - Search Alfred Workflows
 - [gilbarbara/alfred-workflows](https://github.com/gilbarbara/alfred-workflows) - Collection of Alfred workflows
 - [joebuhlig/alfred-obsidian-projects](https://github.com/joebuhlig/alfred-obsidian-projects) - Alfred Workflow for managing project folders and note files in Obsidian.
-- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow for various enhancements of Obsidian.
+- [chrisgrieser/shimmering-obsidian](https://github.com/chrisgrieser/shimmering-obsidian) - Alfred Workflow with dozens of features for controlling your Obsidian vault.
 - [zeus-12/fmhy-ui](https://github.com/zeus-12/fmhy-ui) - Old frontend repo for fmhy
 - [polo2ro/imapbox](https://github.com/polo2ro/imapbox) - Dump imap inbox to a local folder in a regular backupable format: html, json and attachements
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
@@ -5263,7 +5262,7 @@
 - [aimhubio/aim](https://github.com/aimhubio/aim) - Aim 💫 — An easy-to-use & supercharged open-source AI metadata tracker (experiment tracking, AI agents tracing)
 - [robindekoster/chatgpt-custom-knowledge-chatbot](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) - This open source chatbot project lets you create a chatbot that uses your own data to answer questions, thanks to the power of the OpenAI GPT-3.5 model.
 - [geeks-of-data/knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) - Extract knowledge from all information sources using gpt and other language models. Index and make Q&A session with information sources.
-- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - A lightweight framework for building AI-powered software that's reliable, scalable, and easy to trust
+- [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - 🧩 A lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
