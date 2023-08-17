@@ -1765,7 +1765,7 @@
 - [miile7/obsidian-strip-internal-links](https://github.com/miile7/obsidian-strip-internal-links) - 
 - [AayushG159/NotionToObsidian](https://github.com/AayushG159/NotionToObsidian) - A simple tool which migrates all your notion notes to be obsidian ready
 - [madeyexz/markdown-file-query](https://github.com/madeyexz/markdown-file-query) - Query any markdown file using vector embedding, Pinecone vector database and GPT (langchain). A weaker version of privateGPT
-- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Operating System for AI Agents
+- [e2b-dev/e2b](https://github.com/e2b-dev/e2b) - Monorepo for E2B - Cloud Operating System for AI Agents
 - [SillyTavern/SillyTavern-extras](https://github.com/SillyTavern/SillyTavern-extras) - Extensions API for SillyTavern
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
 - [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
@@ -1843,7 +1843,7 @@
 - [anonymous-pits/pits](https://github.com/anonymous-pits/pits) - PITS: Variational Pitch Inference for End-to-end Pitch-controllable TTS without External Pitch Predictor
 - [showlab/Tune-A-Video](https://github.com/showlab/Tune-A-Video) - [ICCV 2023] Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
 - [tdeerenberg/Musort](https://github.com/tdeerenberg/Musort) - Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.
-- [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals lyrics and pitch from music to autogenerate Ultrastar, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
+- [rakuri255/UltraSinger](https://github.com/rakuri255/UltraSinger) - AI based tool to convert vocals lyrics and pitch from music to autogenerate Ultrastar Deluxe, Midi and notes. It automatic tapping, adding text, pitch vocals and creates karaoke files.
 - [stargatedaw/stargate](https://github.com/stargatedaw/stargate) - Innovation-first digital audio workstation (DAW), instrument and effect plugins, wave editor
 - [arkrow/PyMusicLooper](https://github.com/arkrow/PyMusicLooper) - A python program for creating seamless music loops, with play/export support.
 - [djfun/audio-visualizer-python](https://github.com/djfun/audio-visualizer-python) - a little GUI tool to render visualization videos of audio files
@@ -2062,11 +2062,11 @@
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [thijstakken/MusicService](https://github.com/thijstakken/MusicService) - A tool that synchronizes your YouTube playlists and other music providers with your Cloud Storage like Nextcloud as MP3s.
 - [OrkoHunter/keep](https://github.com/OrkoHunter/keep) - A Meta CLI toolkit : Personal shell command keeper and snippets manager
-- [yarrm80s/orpheusdl-soundcloud](https://github.com/yarrm80s/orpheusdl-soundcloud) - 
+- [OrfiDev/orpheusdl-soundcloud](https://github.com/OrfiDev/orpheusdl-soundcloud) - 
 - [techboy-coder/mmdl](https://github.com/techboy-coder/mmdl) - MMDL (Mega Music Downloader) - A tool to easily download music.
 - [emarkou/Audio-auto-tagging](https://github.com/emarkou/Audio-auto-tagging) - Convolutional Neural Network for auto-tagging of audio clips on MagnaTagATune dataset
 - [iheanyi/bandcamp-dl](https://github.com/iheanyi/bandcamp-dl) - Simple python script to download Bandcamp albums
-- [yarrm80s/orpheusdl](https://github.com/yarrm80s/orpheusdl) - 
+- [OrfiTeam/OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - 
 - [agent255/clspotify](https://github.com/agent255/clspotify) - Spotify song downloader without injecting into the windows client
 - [jbh-cloud/spotify_sync](https://github.com/jbh-cloud/spotify_sync) - A schedulable, configurable CLI downloader for Spotify accounts
 - [azuline/repertoire](https://github.com/azuline/repertoire) - whoops never finished this lol, don't look it's old and embarrassing
