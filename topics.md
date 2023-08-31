@@ -4096,7 +4096,7 @@
 - [polo2ro/imapbox](https://github.com/polo2ro/imapbox) - Dump imap inbox to a local folder in a regular backupable format: html, json and attachements
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [patheticGeek/gdrive-index](https://github.com/patheticGeek/gdrive-index) - An index server for Google Drive
-- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets
+- [G4brym/R2-Explorer](https://github.com/G4brym/R2-Explorer) - A Google Drive Interface for your Cloudflare R2 Buckets!
 - [thebrandonc/gdrive-file-auditor](https://github.com/thebrandonc/gdrive-file-auditor) - This repo contains a script that turns Google Sheets into a file permissions auditor for Google Drive. The script adds a new menu item to the Sheet with an option to run the file auditing process. Whi
 - [LeeluPradhan/G-Index](https://github.com/LeeluPradhan/G-Index) - Google Drive Directory Index Running on CloudFlare Workers [Search + DarkMode] [ENGLISH]
 - [rokibhasansagar/BhadooGDIndex](https://github.com/rokibhasansagar/BhadooGDIndex) - Customized Mirror for Bhadoo Google Drive Index repo from GitLab
