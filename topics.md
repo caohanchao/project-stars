@@ -421,6 +421,7 @@
 
 ## api 
 
+- [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
 - [terminalcommandnewsletter/everything-chatgpt](https://github.com/terminalcommandnewsletter/everything-chatgpt) - 🔍 Explore what happens under the hood with the ChatGPT web app, its backend API calls and more. And some speculation, of course.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [cipher387/API-s-for-OSINT](https://github.com/cipher387/API-s-for-OSINT) - List of API's for gathering information about phone numbers, addresses, domains etc
@@ -1818,6 +1819,7 @@
 
 ## flask 
 
+- [JameelKaisar/Quantified-Self-App](https://github.com/JameelKaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
 - [jsmsj/GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) - A self hostable flask app to clone public/private google drive links to your personal teamdrive or google drive. Can be hosted locally under 3 minutes. Live demo at https://gdrivecloneweb-1-i4395649.d
 - [ssube/onnx-web](https://github.com/ssube/onnx-web) - web UI for GPU-accelerated ONNX pipelines like Stable Diffusion, even on Windows and AMD
 - [jofpin/trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool by Jose Pino
@@ -3766,6 +3768,10 @@
 
 ## others 
 
+- [nasa-jpl-memex/memex-explorer](https://github.com/nasa-jpl-memex/memex-explorer) - Viewers for statistics and dashboarding of Domain Search Engine data
+- [thesephist/histools](https://github.com/thesephist/histools) - A collection of tools for generating data visualizations from browser history data
+- [bionic/bionic](https://github.com/bionic/bionic) - Convert data exports from various services to a single SQLite database
+- [spech66/lifelogbb](https://github.com/spech66/lifelogbb) - Lifelog - All your life related things in one place.
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
 - [Paisseon/Erika](https://github.com/Paisseon/Erika) - Tweak downloader for Saily, Sileo, Zebra, and Installer (iOS 13-16)
 - [nyaahilism/BOOKMRKS-MTHRFCKR](https://github.com/nyaahilism/BOOKMRKS-MTHRFCKR) - The Internet's Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!
@@ -4255,7 +4261,7 @@
 - [shaarli/netscape-bookmark-parser](https://github.com/shaarli/netscape-bookmark-parser) - PHP library to parse Netscape bookmark files
 - [thlorenz/parse-link-header](https://github.com/thlorenz/parse-link-header) - Parses a link header and returns paging information for each contained link.
 - [nekoshita/obsidian-auto-card-link](https://github.com/nekoshita/obsidian-auto-card-link) - 
-- [thiiagoms/mark-parse](https://github.com/thiiagoms/mark-parse) - Extract and validate links from markdown files :books:
+- [thiiagoms/mark-parse](https://github.com/thiiagoms/mark-parse) - :books: Extract and validate links from markdown files
 - [hold-baby/bookmark-file-parser](https://github.com/hold-baby/bookmark-file-parser) - Parse Firefox/Chrome/IE/Safari HTML bookmarks files
 - [FlyingWolFox/Netscape-Bookmarks-File-Parser](https://github.com/FlyingWolFox/Netscape-Bookmarks-File-Parser) - Parser and creator for Netscape Bookmarks file format that is used when exporting bookmarks from browsers
 - [bookmarks-tools/bookmarks-parser](https://github.com/bookmarks-tools/bookmarks-parser) - :bookmark: Parses Firefox/Chrome HTML bookmarks files
@@ -5252,6 +5258,8 @@
 
 ## python 
 
+- [JameelKaisar/Quantified-Self-App](https://github.com/JameelKaisar/Quantified-Self-App) - Capstone Project for Modern Application Development I Course (IIT Madras)
+- [hugolmn/quantified-self](https://github.com/hugolmn/quantified-self) - Personal data collection and reporting
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [DeepGenX/CodeGenX](https://github.com/DeepGenX/CodeGenX) - Code Generation using GPT-J!
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
@@ -5796,6 +5804,7 @@
 
 ## rust 
 
+- [1History/1History](https://github.com/1History/1History) - All your history in one file.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [getcollective-ai/collective](https://github.com/getcollective-ai/collective) - Automate non-novel work
 - [Cormanz/smartgpt](https://github.com/Cormanz/smartgpt) - A program that provides LLMs with the ability to complete complex tasks using plugins.
