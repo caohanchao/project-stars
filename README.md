@@ -45,7 +45,6 @@
 - [Python](#python)
 - [R](#r)
 - [Reason](#reason)
-- [Rich Text Format](#rich-text-format)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1347,7 +1346,7 @@
 - [MeadowlarkDAW/Meadowlark](https://github.com/MeadowlarkDAW/Meadowlark) - A (currently incomplete) open-source Digital Audio Workstation
 - [stingalleman/awesome-audiovisual](https://github.com/stingalleman/awesome-audiovisual) - Curated list of audiovisual projects
 - [balavenkatesh3322/audio-pretrained-model](https://github.com/balavenkatesh3322/audio-pretrained-model) - A collection of Audio and Speech pre-trained models.
-- [BillyDM/Awesome-Audio-DSP](https://github.com/BillyDM/Awesome-Audio-DSP) - My curated list of audio DSP and plugin development resources
+- [BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp) - My curated list of audio DSP and plugin development resources
 - [AnshMittal1811/MachineLearning-AI](https://github.com/AnshMittal1811/MachineLearning-AI) - This repository contains all the work that I regularly did and studied from Medium blogs, several research papers, and other Repos (related/unrelated to the research papers).
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
 - [Yuan-ManX/ai-audio-datasets-list](https://github.com/Yuan-ManX/ai-audio-datasets-list) - This is a list of datasets consisting of speech, music, and sound effects, which can provide training data for Generative AI, AIGC, AI model training, intelligent audio tool development, and audio app
@@ -2222,6 +2221,7 @@
 - [uttamo/messenger-data-analysis](https://github.com/uttamo/messenger-data-analysis) - Analyse Messenger data exports from Facebook
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [MK-Ware/Forensic-Tools](https://github.com/MK-Ware/Forensic-Tools) - A collection of tools for forensic analysis
 - [MasterScrat/Chatistics](https://github.com/MasterScrat/Chatistics) - 💬 Python scripts to parse Messenger, Hangouts, WhatsApp and Telegram chat logs into DataFrames.
@@ -2495,10 +2495,6 @@
 
 - [vmarcosp/findr](https://github.com/vmarcosp/findr) - 🔎  A simple and intuitive find & replace command-line interface.
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
-
-## Rich Text Format 
-
-- [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 
 ## Ruby 
 
@@ -2800,7 +2796,7 @@
 
 - [songkg7/o2](https://github.com/songkg7/o2) - Converts obsidian markdown syntax to other platforms.
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) - Simple timeline generator plugin for story tellers using obsidian
-- [linebyline-group/linebyline](https://github.com/linebyline-group/linebyline) - Modern markdown editor application with built-in ChatGPT extension. Available for Linux, macOS and Windows.
+- [linebyline-group/linebyline](https://github.com/linebyline-group/linebyline) - Modern markdown editor application, Build fast and efficient workflows.
 - [nt92/memex](https://github.com/nt92/memex) - We all have a BOATLOAD of data strewn across different apps. This is my attempt to unify my data into a common warehouse and do cool stuff with it.
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. with deno + typescript
